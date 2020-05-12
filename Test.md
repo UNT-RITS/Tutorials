@@ -3,8 +3,9 @@
 ## Step 1
 
 * First of all, you need to have an HPC account:
-** If you already have one, you are good to go;
-** If you don’t have one, please visit https://hpc.unt.edu/account-request ;
+  * If you already have one, you are good to go;
+  * If you don’t have one, please visit https://hpc.unt.edu/account-request ;
+  * Read carefully and make sure you have all information requested:
 
 ```python
 print('10')
