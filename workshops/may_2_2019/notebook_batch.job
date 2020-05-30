@@ -1,0 +1,15 @@
+#!/bin/bash
+#SBATCH -J jupyter_noteb
+#SBATCH -o output_jupyter.o%j
+#SBATCH -e error_jupyter.e%j
+#SBATCH -p public
+#SBATCH --qos debug
+#SBATCH -N 1
+#SBATCH -C c6320
+#SBATCH --mail-user=user@my.unt.edu
+#SBATCH --mail-type=ALL
+
+module load keras/2.2.0
+
+unset XDG_RUNTIME_DIR
+jupyter notebook --no-browser --ip=0.0.0.0
