@@ -11,7 +11,7 @@ Ways of running Python code:
   
   **Cons**: it can't be shared easily and you can't have acces from any device.
 
-* **online on browser**: [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) (“Colab”, for short) is an online platform that allows you to write and execute Python in your browser.
+* **online on browser**: [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) (“Colab”, for short) and [Jupyter Notebook](https://jupyter.org/try) are some of the most popular online platforms that allow you to write and execute Python in your browser.
 
   **Pros**: you can easily share the code with your collegues and work on it simultaneously; you can run only parts of the code, not the entire project everytime.
   
