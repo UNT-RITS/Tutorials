@@ -13,15 +13,15 @@ Ways of running Python code:
 
 * **online on browser**: [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) (“Colab”, for short) is an online platform that allows you to write and execute Python in your browser.
 
-  **Pros**: you can easily share the code with your collegues and work on together simultaneously; you can run only parts of the code, not the entire project everytime.
+  **Pros**: you can easily share the code with your collegues and work on it simultaneously; you can run only parts of the code, not the entire project everytime.
   
   **Cons**: doesn't have much memory you can play with.
 
-* **on HPC**:
+* **online on HPC**:
   - from your terminal
   - from browser
 
-  **Pros**: Talon3 has many versions of python that you can use and it is very useful for when you have a big complex code.
+  **Pros**: Talon3 has many versions of python that you can use and it is very useful for when you have a complex code.
   
   **Cons**: I can't find any. 
 
