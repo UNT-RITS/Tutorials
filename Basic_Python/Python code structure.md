@@ -1,5 +1,10 @@
 # Python code structure
 
+Content:
+  Input
+  Output
+  Imports
+  
 Here is a basic python program that plots the graph of the function f: R → R , where  f(x)= √x
 
 ![Example of a basic py code](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/code_structure.png)
