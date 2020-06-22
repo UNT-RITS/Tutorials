@@ -21,7 +21,8 @@ Ways of running Python code:
   - from your terminal
   - from browser
 
-  **Pros**: Talon3 has many versions of python that you can use.
-  **Cons**: 
+  **Pros**: Talon3 has many versions of python that you can use and it is very useful for when you have a big complex code.
+  
+  **Cons**: I can't find any. 
 
 
