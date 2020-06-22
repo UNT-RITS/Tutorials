@@ -1,9 +1,9 @@
 # Python code structure
 
 Content:
-  Input
-  Output
-  Imports
+  [Input](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#input)
+  [Output](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#output)
+  [Imports](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#import)
   
 Here is a basic python program that plots the graph of the function f: R → R , where  f(x)= √x
 
