@@ -1,9 +1,9 @@
 # Python code structure
 
 Content:
- - [Input](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#input)
- - [Output](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#output)
- - [Imports](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#import)
+- [Python Input](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#input)
+- [Python Output](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#output)
+- [Python Imports: Useful libraries/modules to import](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#import)
   
 Here is a basic python program that plots the graph of the function f: R → R , where  f(x)= √x
 
@@ -14,7 +14,7 @@ As shown in the example above, the file can contain _imports, defined functions,
 In order to become a python user you need to be aware of the integrated tools available for you to apply in your 
 personal/school/work projects (Data-Analysis, Data processing, etc. …). 
  
-## Input
+## Python Input
 
 Until now, the value of variables was defined. To allow flexibility in the program, sometimes we might want to take the input from the user. In Python, the input() function allows this. 
 The syntax for input() is:
@@ -28,13 +28,15 @@ input ("Insert a number: ")
 ```
 
 We can see that the entered value, 5, is taken by the program as a string. 
+
 It is important to know what kind of input you are expecting from the user. 
-If you need a string – the above method works, but if you need an integer or a float to proceed with further calculations, you have to encapsulate the input() into int(input( … )) or float(input( … )). 
-Bonus you can directly calculate a string operation using eval() on the input() as in the example below: 
+If you need a string – the above method works, but if you need an integer or a float to proceed with further calculations, you have to encapsulate the input() into _int(input( … ))_ or _float(input( … ))_. 
+
+Bonus you can directly calculate a string operation using _eval()_ on the input() as in the example below: 
 
 ![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure3.png)
 
-## Output
+## Python Output
 The _print()_ function is used to output data to the screen. We can also output [data to a file](https://www.programiz.com/python-programming/file-operation) (useful when run the code on HPC). 
 
 ``` python 
@@ -53,4 +55,9 @@ print ('The value of the variable is:', x)
 **Output formatting.** If you want a more rigorous output you can do this by using _str.format()_ method.
 ![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure1.png)
 
-## Import
+## Python Import. Useful libraries/modules to import
+
+Some commands might run without any imported libraries (for example “print(‘Hello World!’)”, or some basic calculations _a+b, a*b_) but most of the time you will need to use specific packages called libraries.
+
+Here are some of the most common used libraries (click on the name to access their official documentation):
+
