@@ -9,3 +9,14 @@ As shown in the example above, the file can contain _imports, defined functions,
 In order to become a python user you need to be aware of the integrated tools available for you to apply in your 
 personal/school/work projects (Data-Analysis, Data processing, etc. …). 
  
+## Input
+
+## Output
+The _print()_ function is used to output data to the screen. We can also output [data to a file](https://www.programiz.com/python-programming/file-operation) (useful when run the code on HPC). 
+
+''' python 
+print ("My first print using Py")
+print ('My send print')
+'''
+
+## Import
