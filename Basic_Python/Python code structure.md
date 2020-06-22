@@ -2,7 +2,7 @@
 
 Here is a basic python program that plots the graph of the function f: R → R , where  f(x)= √x
 
-![Example of a basic py code](/code_structure.png)
+![Example of a basic py code](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/code_structure.png)
 
 As shown in the example above, the file can contain _imports, defined functions, built-in functions_, and so on. Almost any code you'll write will have an input, output and imports, along with the main commands and functions.
 
