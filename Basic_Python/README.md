@@ -9,7 +9,10 @@ Ways of running Python code:
 * **offline on your computer**: 
   * from an editor: 
   * from your terminal: 
-
+    * run a script:
+      * from Windows:
+      * from Mac, Linux, BSD, Unix, etc.:
+    * execute a program using Shell:
 
   **Pros**: it can be used without an internet connection.
   
