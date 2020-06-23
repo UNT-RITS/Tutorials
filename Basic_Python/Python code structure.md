@@ -96,7 +96,7 @@ plt.show()
 ```
 **Note**: you can change the highlighted part depending on your needs.
 
-2. [Numpy](https://numpy.org)provides good support for different dimensional array objects as well as for matrices.
+2. [Numpy](https://numpy.org) provides good support for different dimensional array objects as well as for matrices.
 
 -	Not only confined to **provide arrays**, but it also provides a variety of tools to **manage these arrays**. 
 -	It is fast, efficient, and really **good for managing matrices and arrays**.
@@ -202,9 +202,9 @@ data.head() # you can indicate between () the number of rows to be shown
 ![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure7.png)
 **Note**: Use only one of the 3 methods. I wrote all the commands just to give an example for each of them.
 
-Other modules and libraries can be found [here](). 
+Other modules and libraries can be found [here](https://docs.python.org/3/library/). 
 
 Other Python Tutorials:
-[DataCamp]() has tons of great interactive [Python Tutorials]() covering data manipulation, data visualization, statistics, machine learning, and more;
-Read [Python Tutorials and References]() course from After Hours Programming.
+[DataCamp](https://www.datacamp.com/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials) has tons of great interactive [Python Tutorials](https://www.datacamp.com/courses/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials) covering data manipulation, data visualization, statistics, machine learning, and more;
+Read [Python Tutorials and References](https://www.afterhoursprogramming.com/?article=181) course from After Hours Programming.
 
