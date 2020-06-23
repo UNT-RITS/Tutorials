@@ -7,16 +7,22 @@ A Python code/program/script is a collection of commands in a file designed to b
 Ways of running Python code:
 
 * **offline on your computer**: 
-  * from an editor: 
+
+  * from an editor: To make programming simpler, human-readable languages like Python were invented. The files you just install include a Python interpreter. This interpreter converts your human-readable Python code into instructions that the computer can act on.
+  
+  **Pros**: It can be used without an internet connection.
+  
+  **Cons**: It can't be shared easily and you can't have acces to your code from any device.  
+  
   * from your terminal: 
     * run a script:
       * from Windows:
       * from Mac, Linux, BSD, Unix, etc.:
     * execute a program using Shell:
 
-  **Pros**: it can be used without an internet connection.
+  **Pros**: Faster as you only have to type a command and then press the enter key to get the results.
   
-  **Cons**: it can't be shared easily and you can't have acces from any device.
+  **Cons**: Editing the code in this mode is hard as you have to move back to the previous commands or else you have to rewrite the whole command again.
 
 * **online on browser**: Installing PyCharm (or any software) can be a little difficult for a newbie. Fortunately, there are many online resources to get familiar with the syntax and the features of Python before proceeding to install Python in the local machine.
 
@@ -26,7 +32,7 @@ Ways of running Python code:
   
   **Cons**: doesn't have much memory you can play with.
 
-* **online on HPC**:
+* **online on HPC**: 
   - from your terminal
   - from browser
 
@@ -34,4 +40,15 @@ Ways of running Python code:
   
   **Cons**: I can't find any. 
 
+This repo provides the following chapters with tutorials:
 
+1. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md)
+2. How to upload your dataset
+3. How to manipulate .csv files with Python
+4. How to run a job on HPC
+
+TIPS AND TRICKS in learning to code (applicable to any programming language):
+
+  ★	Try to write the commands on your own to get used to the syntax. Avoid the copy-paste.
+  ★	Upload some toy dataset and start playing around – apply any function/method and see how it works and if you can handle it.
+  ★	Got an error? Try to read carefully the output message, it might be intuitive. No? – Google it!
