@@ -40,7 +40,7 @@ Ways of running Python code:
   
   **Cons**: I can't find any. 
 
-This repo provides the following chapters with tutorials:
+This repo provides the following tutorials:
 
 1. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md)
 2. How to upload your dataset
@@ -50,5 +50,7 @@ This repo provides the following chapters with tutorials:
 TIPS AND TRICKS in learning to code (applicable to any programming language):
 
   ★	Try to write the commands on your own to get used to the syntax. Avoid the copy-paste.
+  
   ★	Upload some toy dataset and start playing around – apply any function/method and see how it works and if you can handle it.
+  
   ★	Got an error? Try to read carefully the output message, it might be intuitive. No? – Google it!
