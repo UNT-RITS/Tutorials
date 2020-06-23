@@ -8,7 +8,7 @@ Ways of running Python code:
 
 * **offline on your computer**: 
 
-  * from an editor: To make programming simpler, human-readable languages like Python were invented. The files you just install include a Python interpreter. This interpreter converts your human-readable Python code into instructions that the computer can act on.
+  * from an editor: To make programming simpler, human-readable languages like Python were invented. The files you install include a Python interpreter. This interpreter converts your human-readable Python code into instructions that the computer can act on.
   
   **Pros**: It can be used without an internet connection.
   
@@ -16,9 +16,9 @@ Ways of running Python code:
   
   * from your terminal: 
     * run a script:
-      * from Windows:
-      * from Mac, Linux, BSD, Unix, etc.:
-    * execute a program using Shell:
+      * from Windows: _tutorial needed_
+      * from Mac, Linux, BSD, Unix, etc.: _tutorial needed_
+    * execute a program using Shell: _tutorial needed_
 
   **Pros**: Faster as you only have to type a command and then press the enter key to get the results.
   
@@ -33,8 +33,8 @@ Ways of running Python code:
   **Cons**: doesn't have much memory you can play with.
 
 * **online on HPC**: 
-  - from your terminal
-  - from browser
+  - from your terminal: _tutorial needed_
+  - from browser: _tutorial needed_
 
   **Pros**: Talon3 has many versions of python that you can use and it is very useful for when you have a complex code.
   
