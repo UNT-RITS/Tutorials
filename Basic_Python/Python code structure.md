@@ -1,10 +1,13 @@
 # Python code structure
 
 Content:
+- [Introduction](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#introduction)
 - [Python Input](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#python-input)
 - [Python Output](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#python-output)
 - [Python Imports: Useful libraries/modules to import](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#python-import-useful-librariesmodules-to-import)
-  
+
+## Introduction
+
 Here is a basic python program that plots the graph of the function f: R → R , where  f(x)= √x
 
 ![Example of a basic py code](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure.png)
@@ -27,12 +30,13 @@ Where ‘Your name is: ‘ can be replaced with what you need from the user. For
 input ("Insert a number: ")
 ```
 
-We can see that the entered value, 5, is taken by the program as a string. 
+The entered value is automatically taken by the program as a string. 
 
 It is important to know what kind of input you are expecting from the user. 
+
 If you need a string – the above method works, but if you need an integer or a float to proceed with further calculations, you have to encapsulate the input() into _int(input( … ))_ or _float(input( … ))_. 
 
-Bonus you can directly calculate a string operation using _eval()_ on the input() as in the example below: 
+**Bonus** you can directly calculate a string operation using _eval()_ on the input() as in the example below: 
 
 ![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure3.png)
 
@@ -113,21 +117,23 @@ How to use it ([more examples](https://www.geeksforgeeks.org/numpy-in-python-set
 -	Very suitable **for machine learning**, because contains a variety of sub-packages which help to solve the most common issue related to Scientific Computation.
 -	It contains the following sub-packages:
 
-    o	File input/output - **[scipy.io](https://docs.scipy.org/doc/scipy/reference/io.html)**
-    o	Special Function - **[scipy.special]()**
-    o	Linear Algebra Operation - **[scipy.linalg]()**
-    o	Interpolation - **[scipy.interpolate]()**
-    o	Optimization and fit - **[scipy.optimize]()**
-    o	Statistics and random numbers - **[scipy.stats]()**
-    o	Numerical Integration - **[scipy.integrate]()**
-    o	Fast Fourier transforms - **[scipy.fftpack]()**
-    o	Signal Processing - **[scipy.signal]()**
-    o	Image manipulation – **[scipy.ndimage]()**
+    -	File input/output - **[scipy.io](https://docs.scipy.org/doc/scipy/reference/io.html)**
+    -	Special Function - **[scipy.special]()**
+    -	Linear Algebra Operation - **[scipy.linalg]()**
+    -	Interpolation - **[scipy.interpolate]()**
+    -	Optimization and fit - **[scipy.optimize]()**
+    -	Statistics and random numbers - **[scipy.stats]()**
+    -	Numerical Integration - **[scipy.integrate]()**
+    -	Fast Fourier transforms - **[scipy.fftpack]()**
+    -	Signal Processing - **[scipy.signal]()**   
+    -	Image manipulation – **[scipy.ndimage]()**
+    
     **Note**: SciPy sub-packages need to be imported separately.
 
 For example, SciPy special function includes _Cubic Root, Exponential, Log sum Exponential, Lambert, Permutation and Combinations, Gamma, Bessel, hypergeometric, Kelvin, beta, parabolic cylinder, Relative Error Exponential,_ etc. ...
 
 How to call and use it:
+
 a). the special functions sub-package:
 ``` python 
 from scipy.special import cbrt # for the Cubic Function
