@@ -6,7 +6,7 @@ A Python code/program/script is a collection of commands in a file designed to b
 
 ## Ways of running Python code:
 
-### 1. **OFFLINE**: 
+### :computer: **OFFLINE**: 
 a). **From an IDE/Editor**: [PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spyder, Idle and Eclipse, while [Sublime Text](http://www.sublimetext.com) is an extremely popular Editor, followed by Atom, Visual Studio Code and Vim.
 
 **Pros**: It can be used without an internet connection.
@@ -24,7 +24,7 @@ b). **From terminal**:
   
 **Cons**: Editing the code in this mode is hard as you have to move back to the previous commands or else you have to rewrite the whole command again.
 
-### 2. **ONLINE**: 
+### :earth_americas: **ONLINE** : 
 a). **In browser**: 
 
 Installing PyCharm (or any software) can be a little difficult for a newbie. Fortunately, there are many online resources to get familiar with the syntax and the features of Python before proceeding to install Python in the local machine.
@@ -50,7 +50,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 
 -------------------------------------------------------------------------------------------------------------------------
 
-## What's next? :octocat:
+## What's next in this cool repo? :octocat:
 
 
 ### 1. [More about IDE & Editors](). What we cover:
