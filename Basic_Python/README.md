@@ -4,17 +4,17 @@ Python is one of the most popular high-level languages on Talon3. It is mainly u
 
 A Python code/program/script is a collection of commands in a file designed to be executed in a particular sequence in order to perform a specific task. 
 
-Ways of running Python code:
+## Ways of running Python code:
 
-* **offline on your computer**: 
+### **Offline**: 
 
-  * from an IDE/Editor: [PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spyder, Idle and Eclipse, while [Sublime Text](http://www.sublimetext.com) is an extremely popular Editor, followed by Atom, Visual Studio Code and Vim.
+  #### * From an IDE/Editor: [PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spyder, Idle and Eclipse, while [Sublime Text](http://www.sublimetext.com) is an extremely popular Editor, followed by Atom, Visual Studio Code and Vim.
 
   **Pros**: It can be used without an internet connection.
   
   **Cons**: It can't be shared easily and you can't have acces to your code from any device.  
   
-  * from your terminal: 
+  #### * From terminal: 
     * by running a script:
       * on Windows: [tutorial needed]
       * on Mac, Linux, BSD, Unix, etc.: [tutorial needed]
@@ -24,7 +24,9 @@ Ways of running Python code:
   
   **Cons**: Editing the code in this mode is hard as you have to move back to the previous commands or else you have to rewrite the whole command again.
 
-* **online on browser**: Installing PyCharm (or any software) can be a little difficult for a newbie. Fortunately, there are many online resources to get familiar with the syntax and the features of Python before proceeding to install Python in the local machine.
+### **Online 
+
+  #### **On browser**: Installing PyCharm (or any software) can be a little difficult for a newbie. Fortunately, there are many online resources to get familiar with the syntax and the features of Python before proceeding to install Python in the local machine.
 
   [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) (“Colab”, for short) and [Jupyter Notebook](https://jupyter.org/try) are some of the most popular online platforms that allow you to write and execute Python in your browser.
 
@@ -32,8 +34,10 @@ Ways of running Python code:
   
   **Cons**: doesn't have much memory you can play with.
 
-* **online on HPC**: 
+  #### **On HPC**: 
+  
   - from your terminal:  [tutorial needed]
+  
   - from browser: [tutorial needed]
 
   **Pros**: Talon3 has many versions of python that you can use and it is very useful for when you have a complex code.
