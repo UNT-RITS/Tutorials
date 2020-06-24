@@ -76,7 +76,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
    
    - Output
 
-### 3. [How to code Neural Network models in Python](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#how-to-code-NN-models-in-python). What we cover:
+### 3. [How to code Neural Network models in Python](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#how-to-code-neural-network-models-in-python). What we cover:
 
 -------------------------------------------------------------------------------------------------------
 
