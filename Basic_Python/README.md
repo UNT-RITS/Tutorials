@@ -79,7 +79,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 
 -------------------------------------------------------------------------------------------------------
 
-## TIPS AND TRICKS in learning to code (applicable to any programming language):
+## :bulb: TIPS AND TRICKS in learning to code (applicable to any programming language):
 
     ★	Try to write the commands on your own to get used to the syntax. Avoid the copy-paste.
 
