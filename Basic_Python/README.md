@@ -14,7 +14,9 @@ a). **From an IDE/Editor**:
 :grinning: It can be used without an internet connection.
   
 :unamused: It can't be shared easily and you can't have acces to your code from any device.  
-  
+
+Still confused? Read [more about IDEs and Editors](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python).
+
 b). **From terminal**: 
 
   - by running a script:
