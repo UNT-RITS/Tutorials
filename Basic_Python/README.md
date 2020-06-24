@@ -42,9 +42,27 @@ Ways of running Python code:
 
 This repo provides the following tutorials:
 
-1. More about IDE & Editors: What is the difference between an IDE and a Code Editor?
-2. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md)
+1. More about IDE & Editors. What we cover:
 
+ - What is the difference between an IDE and a Code Editor?
+ 
+ - Some IDEs described: PyCharm, Eclipse, Visual Studio.
+ 
+ - Some Editors described: Sublime Text, Atom, Visual Studio Code.
+ 
+2. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
+ 
+ - How a short program does it looks like?
+ 
+ - What are the main components of a program?
+ 
+   - Imports
+   
+   - Input
+   
+   - Output
+
+3. How to code Neural Network models in Python. What we cover:
 
 TIPS AND TRICKS in learning to code (applicable to any programming language):
 
