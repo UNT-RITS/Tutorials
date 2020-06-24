@@ -1,5 +1,10 @@
 # More about IDEs and Code Editors for Python
 ## :construction: ... Work in Progress ... :construction:
+Content
+- [What is the difference between an IDE and a Code Editor?]()
+- [Some IDEs described]()
+- [Some Editors described]()
+
 ## What is the difference between an IDE and a Code Editor?
 
 An **IDE** (Integrated Development Environment) is a program specifically designed for software development. When you install an IDE, it usually comes with tools such as:
