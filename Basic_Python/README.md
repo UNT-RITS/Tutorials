@@ -1,4 +1,4 @@
-# About Python 
+# About Python :thought_balloon:
 
 Python is one of the most popular high-level languages on Talon3. It is mainly used for software development, scripting, and artificial intelligence. It works on multiple platforms, such as: Windows, Mac, Linux, Raspberry Pi etc.
 
@@ -9,9 +9,9 @@ A Python code/program/script is a collection of commands in a file designed to b
 ### 1. **OFFLINE**: 
 a). **From an IDE/Editor**: [PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spyder, Idle and Eclipse, while [Sublime Text](http://www.sublimetext.com) is an extremely popular Editor, followed by Atom, Visual Studio Code and Vim.
 
-  **Pros**: It can be used without an internet connection.
+**Pros**: It can be used without an internet connection.
   
-  **Cons**: It can't be shared easily and you can't have acces to your code from any device.  
+**Cons**: It can't be shared easily and you can't have acces to your code from any device.  
   
 b). **From terminal**: 
 
@@ -20,38 +20,40 @@ b). **From terminal**:
      - on Mac, Linux, Unix, etc.: [tutorial needed]
   - by executing a program using Shell: [tutorial needed]
 
-  **Pros**: Faster as you only have to type a command and then press the enter key to get the results.
+**Pros**: Faster as you only have to type a command and then press the enter key to get the results.
   
-  **Cons**: Editing the code in this mode is hard as you have to move back to the previous commands or else you have to rewrite the whole command again.
+**Cons**: Editing the code in this mode is hard as you have to move back to the previous commands or else you have to rewrite the whole command again.
 
 ### 2. **ONLINE**: 
-a). **On browser**: 
+a). **In browser**: 
 
 Installing PyCharm (or any software) can be a little difficult for a newbie. Fortunately, there are many online resources to get familiar with the syntax and the features of Python before proceeding to install Python in the local machine.
 
 [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) (“Colab”, for short) and [Jupyter Notebook](https://jupyter.org/try) are some of the most popular online platforms that allow you to write and execute Python in your browser.
 
-  **Pros**: you can easily share the code with your collegues and work on it simultaneously; you can run only parts of the code, not the entire project everytime.
+**Pros**: you can easily share the code with your collegues and work on it simultaneously; you can run only parts of the code, not the entire project everytime.
   
-  **Cons**: doesn't have much memory you can play with.
+**Cons**: doesn't have much memory you can play with.
 
 b). **On HPC**: 
-  
-  - from your terminal:  [tutorial needed]
-  
-  - from browser: [tutorial needed]
 
-  **Pros**: Talon3 has many versions of python that you can use and it is very useful for when you have a complex code.
+While the browser method seem to be the easiest one to go with, sometime you might need to run big projects for academic purpose. That's what HPC is for! You can have access to it:
+
+  - From your terminal:  [tutorial needed]
   
-  **Cons**: I can't find any. 
+  - From browser: [tutorial needed]
+
+**Pros**: Talon3 has many versions of python that you can use and it is very useful for when you have a complex code.
+  
+**Cons**: I can't find any. 
 
 
 -------------------------------------------------------------------------------------------------------------------------
 
-## Content
+## What's next? :octocat:
 
 
-### 1. More about IDE & Editors. What we cover:
+### 1. [More about IDE & Editors](). What we cover:
 
  - What is the difference between an IDE and a Code Editor?
  
@@ -73,7 +75,7 @@ b). **On HPC**:
    
    - Output
 
-### 3. How to code Neural Network models in Python. What we cover:
+### 3. [How to code Neural Network models in Python](). What we cover:
 
 -------------------------------------------------------------------------------------------------------
 
