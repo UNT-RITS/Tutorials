@@ -40,7 +40,8 @@ Ways of running Python code:
   
   **Cons**: I can't find any. 
 
-This repo provides the following tutorials:
+
+---------------------------------------- Content -------------------------------------------------------
 
 1. More about IDE & Editors. What we cover:
 
@@ -60,9 +61,13 @@ This repo provides the following tutorials:
    
    - Input
    
+   - Defined functions/ Algorithms/ Build-in functions
+   
    - Output
 
 3. How to code Neural Network models in Python. What we cover:
+
+-------------------------------------------------------------------------------------------------------
 
 TIPS AND TRICKS in learning to code (applicable to any programming language):
 
