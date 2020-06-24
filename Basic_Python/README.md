@@ -7,7 +7,9 @@ A Python code/program/script is a collection of commands in a file designed to b
 ## Ways of running Python code
 
 ### :computer: **OFFLINE** 
-a). **From an IDE/Editor**: [PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spyder, Idle and Eclipse, while [Sublime Text](http://www.sublimetext.com) is an extremely popular Editor, followed by Atom, Visual Studio Code and Vim.
+a). **From an IDE/Editor**: 
+
+[PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spyder, Idle and Eclipse, while [Sublime Text](http://www.sublimetext.com) is an extremely popular Editor, followed by Atom, Visual Studio Code and Vim.
 
 **Pros**: It can be used without an internet connection.
   
@@ -51,7 +53,6 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 -------------------------------------------------------------------------------------------------------------------------
 
 ## What's next in this cool repo? :octocat:
-
 
 ### 1. [More about IDE & Editors](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What we cover:
 
