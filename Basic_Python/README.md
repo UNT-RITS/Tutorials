@@ -8,7 +8,7 @@ Ways of running Python code:
 
 * **offline on your computer**: 
 
-  * from an IDE/Editor: [PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spider, Idle and Eclipse, while [Sublime Text](http://www.sublimetext.com) is the most popular Editor, followed by Atom, Visual Studio Code and Vim .
+  * from an IDE/Editor: [PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spyder, Idle and Eclipse, while [Sublime Text](http://www.sublimetext.com) is an extremely popular Editor, followed by Atom, Visual Studio Code and Vim.
 
   **Pros**: It can be used without an internet connection.
   
@@ -42,10 +42,9 @@ Ways of running Python code:
 
 This repo provides the following tutorials:
 
-1. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md)
-2. How to upload your dataset
-3. How to manipulate .csv files with Python
-4. How to run a job on HPC
+1. More about IDE & Editors: What is the difference between an IDE and a Code Editor?
+2. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md)
+
 
 TIPS AND TRICKS in learning to code (applicable to any programming language):
 
