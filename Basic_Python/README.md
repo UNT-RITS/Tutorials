@@ -9,7 +9,7 @@ A Python code/program/script is a collection of commands in a file designed to b
 ### :computer: **OFFLINE** 
 a). **From an IDE/Editor**: 
 
-[PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spyder, Idle and Eclipse, while [Sublime Text](http://www.sublimetext.com) is an extremely popular Editor, followed by Atom, Visual Studio Code and Vim.
+[PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Eclipse, Visual Studio and Spyder, while [Sublime Text](http://www.sublimetext.com) is an extremely popular Editor, followed by Atom, Visual Studio Code and Vim.
 
 :grinning: It can be used without an internet connection.
   
