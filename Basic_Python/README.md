@@ -8,7 +8,7 @@ Ways of running Python code:
 
 * **offline on your computer**: 
 
-  * from an IDE/Editor: [PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spider, Idle and Anaconda, while [Sublime Text]() is the most popular Editor, followed by Atom and Visual Studio Code.
+  * from an IDE/Editor: [PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spider, Idle and Eclipse, while [Sublime Text](http://www.sublimetext.com) is the most popular Editor, followed by Atom, Visual Studio Code and Vim .
 
   **Pros**: It can be used without an internet connection.
   
