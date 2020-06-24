@@ -15,10 +15,10 @@ Ways of running Python code:
   **Cons**: It can't be shared easily and you can't have acces to your code from any device.  
   
   * from your terminal: 
-    * run a script:
-      * on Windows: _tutorial needed_
-      * on Mac, Linux, BSD, Unix, etc.: _tutorial needed_
-    * execute a program using Shell: _tutorial needed_
+    * by running a script:
+      * on Windows: [tutorial needed]
+      * on Mac, Linux, BSD, Unix, etc.: [tutorial needed]
+    * by executing a program using Shell: [tutorial needed]
 
   **Pros**: Faster as you only have to type a command and then press the enter key to get the results.
   
@@ -33,17 +33,20 @@ Ways of running Python code:
   **Cons**: doesn't have much memory you can play with.
 
 * **online on HPC**: 
-  - from your terminal:  _tutorial needed_
-  - from browser: _tutorial needed_
+  - from your terminal:  [tutorial needed]
+  - from browser: [tutorial needed]
 
   **Pros**: Talon3 has many versions of python that you can use and it is very useful for when you have a complex code.
   
   **Cons**: I can't find any. 
 
 
----------------------------------------- Content -------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 
-1. More about IDE & Editors. What we cover:
+## Content
+
+
+### 1. More about IDE & Editors. What we cover:
 
  - What is the difference between an IDE and a Code Editor?
  
@@ -51,7 +54,7 @@ Ways of running Python code:
  
  - Some Editors described: Sublime Text, Atom, Visual Studio Code.
  
-2. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
+### 2. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
  
  - How a short program does it looks like?
  
@@ -65,14 +68,14 @@ Ways of running Python code:
    
    - Output
 
-3. How to code Neural Network models in Python. What we cover:
+### 3. How to code Neural Network models in Python. What we cover:
 
 -------------------------------------------------------------------------------------------------------
 
-TIPS AND TRICKS in learning to code (applicable to any programming language):
+## TIPS AND TRICKS in learning to code (applicable to any programming language):
 
-  ★	Try to write the commands on your own to get used to the syntax. Avoid the copy-paste.
-  
-  ★	Upload some toy dataset and start playing around – apply any function/method and see how it works and if you can handle it.
-  
-  ★	Got an error? Try to read carefully the output message, it might be intuitive. No? – Google it!
+    ★	Try to write the commands on your own to get used to the syntax. Avoid the copy-paste.
+
+    ★	Upload some toy dataset and start playing around – apply any function/method and see how it works and if you can handle it.
+
+    ★	Got an error? Try to read carefully the output message, it might be intuitive. No? – Google it!
