@@ -4,9 +4,9 @@ Python is one of the most popular high-level languages on Talon3. It is mainly u
 
 A Python code/program/script is a collection of commands in a file designed to be executed in a particular sequence in order to perform a specific task. 
 
-## Ways of running Python code:
+## Ways of running Python code
 
-### :computer: **OFFLINE**: 
+### :computer: **OFFLINE** 
 a). **From an IDE/Editor**: [PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spyder, Idle and Eclipse, while [Sublime Text](http://www.sublimetext.com) is an extremely popular Editor, followed by Atom, Visual Studio Code and Vim.
 
 **Pros**: It can be used without an internet connection.
