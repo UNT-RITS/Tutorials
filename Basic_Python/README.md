@@ -1,6 +1,6 @@
 # About Python 
 
-Python is one of the most popular high-level languages on Talon3. It is mainly used for server-side web development, development of software, maths, scripting, and artificial intelligence. It works on multiple platforms like Windows, Mac, Linux, Raspberry Pi etc.
+Python is one of the most popular high-level languages on Talon3. It is mainly used for software development, scripting, and artificial intelligence. It works on multiple platforms, such as: Windows, Mac, Linux, Raspberry Pi etc.
 
 A Python code/program/script is a collection of commands in a file designed to be executed in a particular sequence in order to perform a specific task. 
 
@@ -8,7 +8,7 @@ Ways of running Python code:
 
 * **offline on your computer**: 
 
-  * from an IDE/Editor: [PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE for Python
+  * from an IDE/Editor: [PyCharm](https://www.jetbrains.com/pycharm/) is the most popular IDE followed by Spider, Idle and Anaconda, while [Sublime Text]() is the most popular Editor, followed by Atom and Visual Studio Code.
 
   **Pros**: It can be used without an internet connection.
   
