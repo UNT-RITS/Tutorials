@@ -2,7 +2,7 @@
 
 ## What is the difference between an IDE and a Code Editor?
 
-An **IDE** (Integrated Development Environment) is a program specifically designed for software development. When you install an IDE, it usually come with tools such as:
+An **IDE** (Integrated Development Environment) is a program specifically designed for software development. When you install an IDE, it usually comes with tools such as:
 
 - Editor: designed to handle code (responsible for syntax highlighting and auto-completion)
 
