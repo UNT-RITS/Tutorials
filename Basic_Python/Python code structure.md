@@ -1,4 +1,4 @@
-# Python code structure
+# Python code structure 
 
 Content:
 - [Introduction](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#introduction)
@@ -6,7 +6,7 @@ Content:
 - [Python Output](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#python-output)
 - [Python Imports: Useful libraries/modules to import](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#python-import-useful-librariesmodules-to-import)
 
-## Introduction
+## Introduction 
 
 Here is a basic python program that plots the graph of the function f: R → R , where  f(x)= √x
 
@@ -65,7 +65,7 @@ Some commands might run without any imported libraries (for example “print(‘
 
 Here are some of the most common used libraries (click on the name to access their official documentation):
 
-1. [Matplotlib](https://matplotlib.org) is a Python library used to write 2-dimensional graphs and plots.
+### 1. [Matplotlib](https://matplotlib.org) is a Python library used to write 2-dimensional graphs and plots.
 
 -	Often, **mathematic or scientific** applications require more than single axes in a representation.   
 -	This library helps us to **build multiple plots at a time**. 
@@ -96,7 +96,7 @@ plt.show()
 ```
 **Note**: you can change the highlighted part depending on your needs.
 
-2. [Numpy](https://numpy.org) provides good support for different dimensional array objects as well as for matrices.
+### 2. [Numpy](https://numpy.org) provides good support for different dimensional array objects as well as for matrices.
 
 -	Not only confined to **provide arrays**, but it also provides a variety of tools to **manage these arrays**. 
 -	It is fast, efficient, and really **good for managing matrices and arrays**.
@@ -111,7 +111,7 @@ How to use it ([more examples](https://www.geeksforgeeks.org/numpy-in-python-set
 ![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure4.png)
 **Note**: .shape, .size, .ndim are features of the numpy package.
 
-3. [Scipy]() is a python library that is used for mathematics, science, and engineering computation.
+### 3. [Scipy]() is a python library that is used for mathematics, science, and engineering computation.
 
 -	It can operate on an array of NumPy library.
 -	Very suitable **for machine learning**, because contains a variety of sub-packages which help to solve the most common issue related to Scientific Computation.
@@ -168,7 +168,7 @@ ax2.imshow(panda_rotated)
 
 ![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure6.png)
 
-4. [Panda](https://pandas.pydata.org/docs/user_guide/index.html) is a fast, demonstrative package that can be used to easily manipulate any type of data.
+### 4. [Panda](https://pandas.pydata.org/docs/user_guide/index.html) is a fast, demonstrative package that can be used to easily manipulate any type of data.
 
 -	Provides us with many Series and DataFrames. 
 -	You can easily **organize, explore, represent, and manipulate data**.
@@ -202,7 +202,7 @@ data.head() # you can indicate between () the number of rows to be shown
 ![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure7.png)
 **Note**: Use only one of the 3 methods. I wrote all the commands just to give an example for each of them.
 
-Other modules and libraries can be found [here](https://docs.python.org/3/library/). 
+### Other modules and libraries can be found [here](https://docs.python.org/3/library/). 
 
 Other Python Tutorials:
 [DataCamp](https://www.datacamp.com/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials) has tons of great interactive [Python Tutorials](https://www.datacamp.com/courses/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials) covering data manipulation, data visualization, statistics, machine learning, and more;
