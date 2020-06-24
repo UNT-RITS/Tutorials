@@ -53,7 +53,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 ## What's next in this cool repo? :octocat:
 
 
-### 1. [More about IDE & Editors](). What we cover:
+### 1. [More about IDE & Editors](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What we cover:
 
  - What is the difference between an IDE and a Code Editor?
  
@@ -75,7 +75,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
    
    - Output
 
-### 3. [How to code Neural Network models in Python](). What we cover:
+### 3. [How to code Neural Network models in Python](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#how-to-code-NN-models-in-python). What we cover:
 
 -------------------------------------------------------------------------------------------------------
 
