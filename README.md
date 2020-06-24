@@ -1,4 +1,4 @@
-# Talon3 Tutorials
+# About HPC (Talon3)
 
 This repo contains various tutorials and example projects using Talon3
 
@@ -7,7 +7,7 @@ This repo contains various tutorials and example projects using Talon3
 ## Basic job Submision with SLURM
 
 ## Basic Python
-### Basic_Python
+
 This is a tutorial on using python on Talon3. This is great if you have never used python on a HPC resource before.
 This tutorial will go over using the the python builds on Talon3 and how to install your own packages.
 
