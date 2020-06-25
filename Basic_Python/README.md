@@ -79,6 +79,16 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 
 ### 3. [How to code Neural Network models in Python](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#how-to-code-neural-network-models-in-python). What we cover:
 
+ - What is an Artificial Neural Network?
+ 
+    - What are the main components and why do we need each of them?
+    
+    - Architectures of Artificial Neural Network.
+    
+ - What is Deep Learning?
+ 
+ - What is Machine Learning?
+ 
 -------------------------------------------------------------------------------------------------------
 
 ## :bulb: TIPS AND TRICKS in learning to code (applicable to any programming language):
