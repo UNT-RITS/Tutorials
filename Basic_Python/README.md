@@ -89,6 +89,8 @@ While the browser method seem to be the easiest one to go with, sometime you mig
  
  - What is Machine Learning?
  
+ - How to code your own model?
+ 
 -------------------------------------------------------------------------------------------------------
 
 ## :bulb: TIPS AND TRICKS in learning to code (applicable to any programming language):
