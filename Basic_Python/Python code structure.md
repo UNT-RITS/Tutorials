@@ -168,7 +168,7 @@ ax2.imshow(panda_rotated)
 
 ![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/code_structure6.png)
 
-### 4. [Panda](https://pandas.pydata.org/docs/user_guide/index.html) is a fast, demonstrative package that can be used to easily manipulate any type of data.
+### 4. [Panda](https://pandas.pydata.org/docs/user_guide/index.html) is a fast, demonstrative package that can be used to easily manipulate datasets.
 
 -	Provides us with many Series and DataFrames. 
 -	You can easily **organize, explore, represent, and manipulate data**.
@@ -204,7 +204,9 @@ data.head() # you can indicate between () the number of rows to be shown
 
 ### Other modules and libraries can be found [here](https://docs.python.org/3/library/). 
 
-Other Python Tutorials:
+### Other Python Tutorials:
+
 [DataCamp](https://www.datacamp.com/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials) has tons of great interactive [Python Tutorials](https://www.datacamp.com/courses/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials) covering data manipulation, data visualization, statistics, machine learning, and more;
+
 Read [Python Tutorials and References](https://www.afterhoursprogramming.com/?article=181) course from After Hours Programming.
 
