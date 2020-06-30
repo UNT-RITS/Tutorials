@@ -33,10 +33,11 @@ Compared to an IDE, a good dedicated code editor is usually smaller and quicker,
 
 
 ### 1. PyCharm
+PyCharm is an IDE by JetBrains, designed for professional developers. Some important features include: industry-leading code completion, code navigation, safe refactoring, and smart debugging. All of these and more others contribute to make professional software development a more productive and enjoyable experience. 
 
-:grinning:
+:grinning: Its features are really helpful and enhance the coding experience by sending tips on how to use it everytime you open the program.
 
-:unamused:
+:unamused: It is quite resource consuming especially when running on earlier versions of Windows operating system.
 
 ### 2. Eclipse
 
