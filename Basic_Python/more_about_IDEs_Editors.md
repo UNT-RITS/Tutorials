@@ -41,10 +41,11 @@ PyCharm is an IDE by JetBrains, designed for professional developers. Some impor
 
 ### 2. Eclipse
 
+Eclipse is an integrated development environment used in computer programming. It contains a base workspace and an extensible plug-in system for customizing the environment. - _Wikipedia_
 
-:grinning:
+:grinning: Simplified IDE makes it easy to write clean and efficient code.
 
-:unamused:
+:unamused: Updated versions require you to build out your plugins and migrate your projects
 
 ### 3. Visual Studio
 
@@ -80,8 +81,8 @@ PyCharm is an IDE by JetBrains, designed for professional developers. Some impor
 
 ### 3. Visual Studio Code
 
-[Visual Studio Code]()
+[Visual Studio Code](https://code.visualstudio.com/docs) Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. - _Wikipedia_
 
-:grinning:
+:grinning: It is very light in weight and takes very little time to start. VS Code is really good at allowing customization and extensibility. There are a ton of extensions to use for all types of workflow enhancement. 
 
-:unamused:
+:unamused: You can't open the same project in two different windows. A forward approach to git repositories is to have a 'monorepo'. This doesn't the best with VSCode since you can't open the same project in multiple windows. 
