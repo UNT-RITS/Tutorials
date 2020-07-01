@@ -1,5 +1,5 @@
 # More about IDEs and Code Editors for Python
-## :construction: ... Work in Progress ... :construction:
+
 Content
 - [What is the difference between an IDE and a Code Editor?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#what-is-the-difference-between-an-ide-and-a-code-editor)
 - [Some IDEs described](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#ides)
