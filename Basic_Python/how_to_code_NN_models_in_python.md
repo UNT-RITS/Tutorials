@@ -39,11 +39,14 @@ A **bias** value allows you to shift the activation function curve up or down.
 
 A neural network can usually consist of three types of nodes:
 
-    ★ Input Nodes – they provide information from the outside world to the network and are referred to as the “Input Layer”. No computation is performed in any of the Input nodes – they just pass on the information to the hidden nodes.
+    ★ Input Nodes – they provide information from the outside world to the network and are referred to as the “Input Layer”. 
+                    No computation is performed in any of the Input nodes – they just pass on the information to the hidden nodes.
 
-    ★ Hidden Nodes – they have no direct connection with the outside world and form a so called “Hidden Layer”. They perform computations and transfer information from the input nodes to the output nodes.
+    ★ Hidden Nodes – they have no direct connection with the outside world and form a so called “Hidden Layer”. 
+                     They perform computations and transfer information from the input nodes to the output nodes.
 
-    ★ Output Nodes – they are collectively referred to as the “Output Layer” and are responsible for computations and mapping information from the network to the outside world.
+    ★ Output Nodes – they are collectively referred to as the “Output Layer” and are responsible for computations and 
+                     mapping information from the network to the outside world.
 
 #### 2. Why do we need Activation Function?
 
