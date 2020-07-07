@@ -113,20 +113,19 @@ Unsupervised learning is applied when the dataset doesn’t come with labels, as
 
 This learning method is being used for tasks such as: _clustering, data visualization, dimentionality reduction_ and _anomaly detection._
 
-- **Clustering**: is the task for identifying similarity among items in order to group them – without having a name for that group (a label).
-    Popular algorithms for this task: K-Mean, KNN, DBSCAN, Hierarchical Cluster Analysis (HCA);
+**Clustering**: is the task for identifying similarity among items in order to group them – without having a name for that group (a label).
+   Popular algorithms for this task: K-Mean, KNN, DBSCAN, Hierarchical Cluster Analysis (HCA);
 
-- **Visualization**: is the task for identifying and providing qualitative understanding of your dataset, like: trends, outliers, and patterns.
-
-    Popular algorithms for this task: Principal Component Analysis (PCA), Kernel PCA, Locally Linear Embedding, t-Distributed Stochastic Neighbor Embedding; They conserve as much structure as they can by keeping separate classes in the input to prevent overlapping in the visualization, so that you can identify unusual patterns, if present. 
+**Visualization**: is the task for identifying and providing qualitative understanding of your dataset, like: trends, outliers, and patterns.
+   Popular algorithms for this task: Principal Component Analysis (PCA), Kernel PCA, Locally Linear Embedding, t-Distributed Stochastic Neighbor Embedding; They conserve as much structure as they can by keeping separate classes in the input to prevent overlapping in the visualization, so that you can identify unusual patterns, if present. 
  
-- **Dimensionality reduction** (essential in meaningful compression and structure discovery) has the goal to simplify the input data without losing too much information. A solution is to merge several similar features into one. For example, a movie’s director may be strongly correlated with its actors, so the dimensionality reduction algorithm will merge them into one feature that represents the movie staff. This is called _feature extraction_. 
+**Dimensionality reduction** (essential in meaningful compression and structure discovery) has the goal to simplify the input data without losing too much information. A solution is to merge several similar features into one. For example, a movie’s director may be strongly correlated with its actors, so the dimensionality reduction algorithm will merge them into one feature that represents the movie staff. This is called _feature extraction_. 
 
-    - a dimensionality reduction algorithm used before a learning method will allow a much faster running, occupy less memory space and, sometimes, might perform better. 
+   - a dimensionality reduction algorithm used before a learning method will allow a much faster running, occupy less memory space and, sometimes, might perform better. 
 
-- **Anomaly Detection** has the goal to detect any unusual activity or presence in your data. Such algorithms detect credit card frauds, sustain the system health monitoring, etc. Even if you don’t have such a complex application, you can still run an anomaly detection algorithm to make sure the training set is not misleading. 
+**Anomaly Detection** has the goal to detect any unusual activity or presence in your data. Such algorithms detect credit card frauds, sustain the system health monitoring, etc. Even if you don’t have such a complex application, you can still run an anomaly detection algorithm to make sure the training set is not misleading. 
 
-    - An anomaly detection algorithm used before a learning method will eliminate possible outliers, improving the dataset quality.
+   - An anomaly detection algorithm used before a learning method will eliminate possible outliers, improving the dataset quality.
 
 Some specific areas include recommender systems, targeted marketing and customer segmentation, big data visualization, etc.
 
