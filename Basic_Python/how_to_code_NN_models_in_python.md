@@ -81,7 +81,7 @@ In the following table it is a clear distinction and classification of some func
 
 ## What is Machine Learning?
 
-Machine Learning (ML) is the computer programming field where the machine is led to learn from data. In contrast with traditional programming approaches where the developer had to continuously improve the code, machine learning aims to keep up with this ever-changing world by self-adapting and learning on the fly.  
+**Machine Learning (ML)** is the computer programming field where the machine is led to learn from data. In contrast with traditional programming approaches where the developer had to continuously improve the code, machine learning aims to keep up with this ever-changing world by self-adapting and learning on the fly.  
 
 It is been around for decades and nowadays it is present in so many shapes that became unnoticeable and yet indispensable for our daily life. From call center robots to a simple Google search, as well as Amazon or Netflix recommendations, they all have a machine learning algorithm working behind it. 
 
@@ -114,10 +114,10 @@ Unsupervised learning is applied when the dataset doesn’t come with labels, as
 This learning method is being used for tasks such as: _clustering, data visualization, dimentionality reduction_ and _anomaly detection._
 
 **Clustering**: is the task for identifying similarity among items in order to group them – without having a name for that group (a label).
-   Popular algorithms for this task: K-Mean, KNN, DBSCAN, Hierarchical Cluster Analysis (HCA);
+   Popular algorithms for this task: **K-Mean, KNN, DBSCAN, Hierarchical Cluster Analysis (HCA)**
 
 **Visualization**: is the task for identifying and providing qualitative understanding of your dataset, like: trends, outliers, and patterns.
-   Popular algorithms for this task: Principal Component Analysis (PCA), Kernel PCA, Locally Linear Embedding, t-Distributed Stochastic Neighbor Embedding; They conserve as much structure as they can by keeping separate classes in the input to prevent overlapping in the visualization, so that you can identify unusual patterns, if present. 
+   Popular algorithms for this task: **Principal Component Analysis (PCA), Kernel PCA, Locally Linear Embedding, t-Distributed Stochastic Neighbor Embedding**; They conserve as much structure as they can by keeping separate classes in the input to prevent overlapping in the visualization, so that you can identify unusual patterns, if present. 
  
 **Dimensionality reduction** (essential in meaningful compression and structure discovery) has the goal to simplify the input data without losing too much information. A solution is to merge several similar features into one. For example, a movie’s director may be strongly correlated with its actors, so the dimensionality reduction algorithm will merge them into one feature that represents the movie staff. This is called _feature extraction_. 
 
@@ -139,19 +139,7 @@ An example from everyday life where we meet this kind of machine learning is in 
 
 Semi-Supervised learning is used when have both labeled and unlabeled data.
 
-Some Semi-Supervised Algorithms include:
-
-▪ Self-Training 
-
-▪ Generative methods, mixture models 
-
-▪ Graph-based methods
-
-▪ Co-Training 
-
-▪ Semi-supervised SVM 
-
-▪ Many others 
+Some Semi-Supervised Algorithms include: **self-training, generative methods, mixture models, graph-based methods, co-training, semi-supervised SVM** and many others. 
 
 ### 4.	Self-supervised Learning
 
