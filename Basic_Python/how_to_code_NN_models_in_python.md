@@ -97,7 +97,7 @@ Inspired by how students are supervised by their teacher who provides them the r
 
 Whenever the problem lies in one of the two subcategories: **regression** or **classification**. 
 
-**Regression** is the task of estimating or predicting continuous data (unstable values), such as: popularity (paper & code)/ population growth/ weather (article & code)/ stock prices (code & details), etc. using algorithms like linear regression (because it outputs a probabilistic value, ex.: 40% chance of rain), non-linear regression or Bayesian linear regression.
+**Regression** is the task of estimating or predicting continuous data (unstable values), such as: popularity ([paper](https://arxiv.org/pdf/1907.01985.pdf) & [code](https://github.com/dingkeyan93/Intrinsic-Image-Popularity))/ population growth/ weather ([article](https://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1/) & [code](https://github.com/MichaelE919/machine-learning-predict-weather))/ stock prices ([code & details](https://github.com/dduemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network/blob/master/Final%20Project.ipynb)), etc. using algorithms like linear regression (because it outputs a probabilistic value, ex.: 40% chance of rain), non-linear regression or [Bayesian linear regression](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7).
 
 - If the model is unable to provide accurate results, backward propagation (detailed in the next chapter) is used to repeat the whole function until it receives satisfactory results.
 
@@ -161,7 +161,7 @@ Supervised learning is a safe bet, but it is limited. Unsupervised and Self-supe
 
 **When do we use Self-Supervised Learning?**
 
-Self-Supervised Learning is mostly use for motion-object detection as in this paper & code. Here is a list of other papers using self-supervised learning.
+Self-Supervised Learning is mostly use for motion-object detection as in this [paper](https://arxiv.org/pdf/1905.11137.pdf) & [code](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/). Here is [a list of other papers](https://github.com/jason718/awesome-self-supervised-learning) using self-supervised learning.
 
 
 ### 5.	Reinforcement Learning (RL) 
@@ -170,4 +170,4 @@ Reinforcement learning has no kind of human supervision. It is a completely diff
  
 **When do we use Reinforcement Learning?**
 
-Reinforcement learning is used in Games (DeepMind’s AlphaGo – from Google: paper, the official code hasn’t been released, but here’s an alternative), Real-Time Decisions (Traffic Light Control – paper, paper & code), Robot Navigation (MuJoCo – physics simulator), Skill Acquisition (Self-Driving Car – paper & code). 
+Reinforcement learning is used in Games ([DeepMind’s AlphaGo](https://deepmind.com/research/case-studies/alphago-the-story-so-far) – from Google: [paper](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ), the official code hasn’t been released, but here’s an [alternative](https://github.com/tensorflow/minigo)), Real-Time Decisions (Traffic Light Control – [paper](http://web.eecs.utk.edu/~ielhanan/Papers/IET_ITS_2010.pdf), [paper](https://arxiv.org/pdf/1903.04527.pdf) & [code](https://github.com/cts198859/deeprl_network/blob/master/README.md)), Robot Navigation ([MuJoCo](http://www.mujoco.org/book/index.html) – physics simulator), Skill Acquisition (Self-Driving Car – [paper](https://arxiv.org/pdf/1801.02805.pdf) & [code](https://github.com/lexfridman/deeptraffic)). 
