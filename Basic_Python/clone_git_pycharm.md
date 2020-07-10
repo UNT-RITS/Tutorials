@@ -1,4 +1,4 @@
-#How to clone a GitHub repository in PyCharm and sync it to HPC
+# How to clone a GitHub repository in PyCharm and sync it to HPC
 
 ## **Step 1.** Connect to VPN: [tutorial](https://itservices.cas.unt.edu/services/accounts-servers/articles/cisco-anyconnect-mobility-client-vpn) 
 
