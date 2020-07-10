@@ -1,6 +1,14 @@
-# How to clone a GitHub repository in PyCharm and sync it to HPC
+# How to clone a GitHub repository to a server and run it from your IDE
 
-## **Step 1.** Connect to VPN: [tutorial](https://itservices.cas.unt.edu/services/accounts-servers/articles/cisco-anyconnect-mobility-client-vpn) 
+## Introduction
+
+Let's say you want to run a project from GitHub. They usually have multiple folders, subfolders and other interconnected function files which cannot be easily managed in an Online Notebook due to memory limilations. 
+
+The good news is if you have access to a server with better resources than your computer, you can clone the repository on that server and work on it from your IDE.  
+
+-------------------------------
+## **Step 1.** Connect to VPN 
+Everytime you try to access the HPC server you need to be connected to the UNT VPN. Not sure how? Check [this tutorial](https://itservices.cas.unt.edu/services/accounts-servers/articles/cisco-anyconnect-mobility-client-vpn).
 
 ## **Step 2.** Go to the main page of the repository you want to clone. Copy the repo link. 
 
