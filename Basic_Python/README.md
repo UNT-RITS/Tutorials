@@ -43,9 +43,9 @@ b). **On HPC**:
 
 While the browser method seem to be the easiest one to go with, sometime you might need to run big projects for academic purpose. That's what HPC is for! You can have access to it:
 
-  - From your terminal: [tutorial needed]
-  
-  - From browser: [tutorial needed]
+  - From your terminal: [tutorial needed]().
+  - From an IDE: [tutorial](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/clone_git_pycharm.md).
+  - From browser: [tutorial needed]().
 
 :grinning: Talon3 has many versions of python that you can use and it is very useful for when you have a complex code.
   
