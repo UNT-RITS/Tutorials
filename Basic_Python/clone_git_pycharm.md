@@ -14,13 +14,13 @@ I will type **pwd** to see the path where I am right now.
 
 It looks like I am in the home folder of my user so I can go ahead and clone the Git Repo here. 
 
-**Note.** There are two options where you are able to store files: **/home/youraccount** or **/storage/scratch2/youraccount**. If you want to move to another folder use the **cd** command (see [tutorial] (https://www.geeksforgeeks.org/cd-command-in-linux-with-examples/) ).
+**Note.** There are two options where you are able to store files: **/home/youraccount** or **/storage/scratch2/youraccount**. If you want to move to another folder use the **cd** command (see [tutorial](https://www.geeksforgeeks.org/cd-command-in-linux-with-examples/) ).
 
-## **Step 4.** In the folder you decide to copy the repo type **git clone git_repo_link** as in the example below:
+## **Step 4.** In the folder you decide to copy the repository type: **git clone git_repo_link** as in the example below.
 
 ![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/clone3.png)
 
-## **Step 5.** Open PyCharm and choose **+ Create new project**
+## **Step 5.** Open PyCharm and choose "**+ Create new project**".
 
 ![](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/clone4.png)
 
