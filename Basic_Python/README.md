@@ -20,9 +20,9 @@ Still confused? Read [more about IDEs and Editors](https://github.com/UNT-RITS/T
 b). **From terminal**: 
 
   - by running a script:
-     - on Windows: [tutorial needed]
-     - on Mac, Linux, Unix, etc.: [tutorial needed]
-  - by executing a program using Shell: [tutorial needed]
+     - on Windows: :exclamation: [tutorial needed]()
+     - on Mac, Linux, Unix, etc.: :exclamation: [tutorial needed]()
+  - by executing a program using Shell: :exclamation: [tutorial needed]()
 
 :grinning: Faster as you only have to type a command and then press the enter key to get the results.
   
@@ -43,9 +43,9 @@ b). **On HPC**:
 
 While the browser method seem to be the easiest one to go with, sometime you might need to run big projects for academic purpose. That's what HPC is for! You can have access to it:
 
-  - From your terminal: [tutorial needed]().
+  - From your terminal: :exclamation: [tutorial needed]().
   - From an IDE: [tutorial](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/clone_git_pycharm.md).
-  - From browser: [tutorial needed]().
+  - From browser: :exclamation: [tutorial needed]().
 
 :grinning: Talon3 has many versions of python that you can use and it is very useful for when you have a complex code.
   
