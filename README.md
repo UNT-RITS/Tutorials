@@ -35,7 +35,7 @@ This folder contains information from previous UNT RITS Workshops of HPC and DSA
 ### [May 1st]()
 ### [May 2nd]()
 
-## B. Programing Languages:
+## B. Programming Languages:
 
 ### 1. [Python](https://github.com/UNT-RITS/Tutorials/tree/master/Basic_Python#about-python-thought_balloon)
 
