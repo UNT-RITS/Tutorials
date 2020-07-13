@@ -31,6 +31,10 @@ Talon 3 is the main computing facility that RITS supports which contains:
 ## A. [Workshops](https://github.com/UNT-RITS/Tutorials/tree/master/workshops#hpc-workshops)
 This folder contains information from previous UNT RITS Workshops of HPC and DSA.
 
+### [Find new sentiments in text data](https://github.com/UNT-RITS/Tutorials/tree/master/workshops/march_3_2020#find-new-sentiments-in-text-data)
+### [May 1st]()
+### [May 2nd]()
+
 ## B. Programing Languages:
 
 ### 1. [Python](https://github.com/UNT-RITS/Tutorials/tree/master/Basic_Python#about-python-thought_balloon)
