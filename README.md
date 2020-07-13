@@ -71,9 +71,7 @@ Content:
  
     - What are the main components and why do we need each of them?
     
-    - Architectures of Artificial Neural Network.
-    
- - What is Deep Learning?
+ - Architectures of Artificial Neural Network.
  
  - What is Machine Learning?
  
