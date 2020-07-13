@@ -75,16 +75,16 @@ Content:
  
  - What is Machine Learning?
  
- - How to code your own model?
+ - How to code your own model? 
  
 
 ## 2. Matlab
 
-Content:
+Content: :soon:
 
 ## 3. R
 
-Content:
+Content: :soon:
 
 
 
