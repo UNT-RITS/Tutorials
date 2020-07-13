@@ -1,10 +1,5 @@
 # Use Python on Talon Workshop
-
-
-
 ## Load python
-
-
 
 Check the modules you have loaded:
 
@@ -13,8 +8,6 @@ $ module list
 ```
 
 See all modules available on Talon:
-
-
 
 ```
 $ module avail
@@ -267,16 +260,11 @@ Create a file with extension .job
 
 Launch the job:
 
-
-
 ```
 $ sbatch file.job
 ```
 
-
 ## Use GPU / GPUs
-
-
 ### Batch sesion:
 
 Create a file with extension .job
@@ -302,3 +290,4 @@ Launch the job:
 $ sbatch file.job
 ```
 
+# Next: [Use Jupyter Notebook on Talon](https://github.com/UNT-RITS/Tutorials/blob/master/workshops/may_1_2019/use_jupyter.md#use-jupyter-notebook-on-talon)
