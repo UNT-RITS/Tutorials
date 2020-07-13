@@ -15,7 +15,7 @@ a). **From an IDE/Editor**:
   
 :unamused: It can't be shared easily and you can't have acces to your code from any device.  
 
-Still confused? Read [more about IDEs and Editors](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python).
+_Still confused? Read [more about IDEs and Editors](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python)._
 
 b). **From terminal**: 
 
@@ -38,6 +38,8 @@ Installing PyCharm (or any software) can be a little difficult for a newbie. For
 :grinning: You can easily share the code with your collegues and work on it simultaneously; you can run only parts of the code, not the entire project everytime.
   
 :unamused: Doesn't have much memory you can play with.
+
+_Still confused? Read about [How to get started with Colab & Jupyter](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook)._
 
 b). **On HPC**: 
 
