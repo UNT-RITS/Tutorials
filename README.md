@@ -1,37 +1,51 @@
-# About HPC (Talon3)
+# About HPC (Talon3) :mag_right:
 
-This repo contains various tutorials and example projects using Talon3
+This repo contains various tutorials and example projects using Talon3.
 
-## Using Environment modules
+## What is UNT HPC?
 
-## Basic job Submision with SLURM
+UNT HPC is a part of Research IT Services, offering state-of-the-art computing, storage, visualization, and networking service to the university. We help researchers and other members of UNT use advance computing power to enable higher research throughput and expand research capabilities.
 
-## Basic Python
+## Talon 3 – UNT’s Flagship Resources
 
-This is a tutorial on using python on Talon3. This is great if you have never used python on a HPC resource before.
-This tutorial will go over using the the python builds on Talon3 and how to install your own packages.
+Talon 3 is the main computing facility that RITS supports which contains:
+ - More than 8,300 CPU cores
+ - 150,000 GPU cores
+ - Mellanox FDR InfiniBand network
+ - Over 1.4 Petabytes of Lustre File Storage
+ 
+ ## So .. you already like us? Go ahead and [fill in a form](https://hpc.unt.edu/account-request) to get an account!
+ 
+:globe_with_meridians: Website: https://hpc.unt.edu 
 
-# Workshops
-This contains information from previous UNT RITS Workshops of HPC and DSA
+:office: Location: General Academic Building (GAB), **Room 535**.
 
-# Upcoming Tutorials
+:mailbox_with_mail: Contact Us: https://hpc.unt.edu/contact
 
-## Setting up virtual python environment 
+:busts_in_silhouette: FAQs: https://hpc.unt.edu/faq
 
-## Python on the GPU
+----------------------------------
 
-## Using PyCharm
+# What's next in this cool repo? :octocat:
 
-## Using Jupyter Notebooks on Talon3
+## Workshops
+This folder contains information from previous UNT RITS Workshops of HPC and DSA.
 
-## Basic R
+## Programing Languages:
 
-## R on the GPU
+## 1. Python
 
-## Molecular Modeling
+This is a tutorial on using Python on Talon3. If you have never used Python on a HPC resource before, or if you never used Python at all, this is for you!
 
-## Machine Learing on Talon3
+Content:
 
-## Intro to Word Embedding
+## 2. Matlab
+
+Content:
+
+## 3. R
+
+Content:
+
 
 
