@@ -28,10 +28,10 @@ Talon 3 is the main computing facility that RITS supports which contains:
 
 # What's next in this cool repo? :octocat:
 
-## Workshops
+## A. Workshops
 This folder contains information from previous UNT RITS Workshops of HPC and DSA.
 
-## Programing Languages:
+## B. Programing Languages:
 
 ## 1. Python
 
