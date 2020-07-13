@@ -28,12 +28,12 @@ Talon 3 is the main computing facility that RITS supports which contains:
 
 # What's next in this cool repo? :octocat:
 
-## A. Workshops
+## A. [Workshops](https://github.com/UNT-RITS/Tutorials/tree/master/workshops#hpc-workshops)
 This folder contains information from previous UNT RITS Workshops of HPC and DSA.
 
 ## B. Programing Languages:
 
-### 1. Python
+### 1. [Python](https://github.com/UNT-RITS/Tutorials/tree/master/Basic_Python#about-python-thought_balloon)
 
 This is a tutorial on using Python on Talon3. If you have never used Python on a HPC resource before, or if you never used Python at all, this is for you!
 
