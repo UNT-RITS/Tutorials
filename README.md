@@ -64,7 +64,13 @@ Content:
  - Some IDEs described: PyCharm, Eclipse, Visual Studio.
  
  - Some Editors described: Sublime Text, Atom, Visual Studio Code.
- 
+
+#### [How to get started with Google Colab & Jupyter Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What we cover:
+
+- Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
+
+- Jupyter Notebook (New Notebook, Main Features)
+
 #### [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
  
  - How a short program does it looks like?
