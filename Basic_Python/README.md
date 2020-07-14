@@ -39,7 +39,7 @@ Installing PyCharm (or any software) can be a little difficult for a newbie. For
   
 :unamused: Doesn't have much memory you can play with.
 
-_Still confused? Read about [How to get started with Colab & Jupyter](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook)._
+_Still confused? Read about [How to get started with Colab & Jupyter](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook)._
 
 b). **On HPC**: 
 
@@ -60,37 +60,30 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 ### 1. [More about IDE & Editors](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What we cover:
 
  - What is the difference between an IDE and a Code Editor?
- 
  - Some IDEs described: PyCharm, Eclipse, Visual Studio.
- 
  - Some Editors described: Sublime Text, Atom, Visual Studio Code.
  
-### 2. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
+### 2. [How to get started with Google Colab & Jupyter Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What I cover:
+
+- Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
+- Jupyter Notebook (New Notebook, Main Features)
+
+### 3. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
  
  - How a short program does it looks like?
- 
  - What are the main components of a program?
- 
    - Imports
-   
    - Input
-   
    - Defined functions/ Algorithms/ Build-in functions
-   
    - Output
 
-### 3. [How to code Neural Network models in Python](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#how-to-code-neural-network-models-in-python). What we cover:
+### 4. [How to code Neural Network models in Python](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#how-to-code-neural-network-models-in-python). What we cover:
 
  - What is an Artificial Neural Network?
- 
     - What are the main components and why do we need each of them?
-    
     - Architectures of Artificial Neural Network.
-    
  - What is Deep Learning?
- 
  - What is Machine Learning?
- 
  - How to code your own model?
  
 -------------------------------------------------------------------------------------------------------
