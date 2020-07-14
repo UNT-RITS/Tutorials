@@ -55,6 +55,8 @@ This folder contains information from previous UNT RITS Workshops of HPC and DSA
 
 This is a tutorial on using Python on Talon3. If you have never used Python on a HPC resource before, or if you never used Python at all, this is for you!
 
+If you would like a smooth transition, you need to follow the materials in a sequential order.
+
 Content:
 
 #### [More about IDE & Editors for Python](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What we cover:
