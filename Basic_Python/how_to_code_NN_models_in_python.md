@@ -2,20 +2,25 @@
 
 ## :construction: ... Work in Progress ... :construction:
 
+---------------------
+
 Content:
 
-- [What is an Artificial Neural Network?]()
-- [What are the main components and why do we need each of them?]()
+[What is an Artificial Neural Network?]()
 
-        - Weights, Bias and Layers
+[What are the main components and why do we need each of them?]()
+        
+- Weights, Bias and Layers
 
-        - Activation Function: **Linear Activation Function** and **Non-linear Activation Function** (_Sigmoid, Tanh_ & _ReLU_)
+- Activation Function: **Linear Activation Function** and **Non-linear Activation Function** (_Sigmoid, Tanh_ & _ReLU_)
 
-        - Derivatives
+- Derivatives
 
-- [Architectures of Artificial Neural Network]()
+[Architectures of Artificial Neural Network]()
     
-- [What is Machine Learning?]()
+[What is Machine Learning?]()
+
+---------------------
 
 ## What is an Artificial Neural Network?
 **Artificial Neural networks (ANN)** are a set of algorithms, modeled in a similar way the human brain works, developed to recognize and predict patterns. They interpret given data through a machine perception, using labeling or collecting raw input. The patterns they recognize are numerical, expressed as vectors, and so is the output before having assigned a meaning (check this [video](https://www.youtube.com/watch?v=aircAruvnKk) explanation). 
