@@ -21,11 +21,11 @@ Content:
 [What is Machine Learning?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#what-is-machine-learning)
 
 [Machine Learning Categories by the level of human supervision:]()
-  1. [Supervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#1supervised-learning)
-  2. [Unsupervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#2unsupervised-learning)
-  3. [Semi-Supervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#3semi-supervised-learning)
-  4. [Self-Supervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#4self-supervised-learning)
-  5. [Reinforcement Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#5reinforcement-learning-rl)
+  1. [Supervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#1-supervised-learning)
+  2. [Unsupervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#2-unsupervised-learning)
+  3. [Semi-Supervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#3-semi-supervised-learning)
+  4. [Self-Supervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#4-self-supervised-learning)
+  5. [Reinforcement Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#5-reinforcement-learning-rl)
 
 ---------------------
 
