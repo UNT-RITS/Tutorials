@@ -6,9 +6,9 @@
 
 Content:
 
-[What is an Artificial Neural Network?]()
+[What is an Artificial Neural Network?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#what-is-an-artificial-neural-network)
 
-[What are the main components and why do we need each of them?]()
+[What are the main components and why do we need each of them?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#what-are-the-main-components-and-why-do-we-need-each-of-them)
         
 - Weights, Bias and Layers
 
@@ -16,9 +16,9 @@ Content:
 
 - Derivatives
 
-[Architectures of Artificial Neural Network]()
+[Architectures of Artificial Neural Network](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#architectures-of-artificial-neural-network)
     
-[What is Machine Learning?]()
+[What is Machine Learning?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#what-is-machine-learning)
 
 ---------------------
 
