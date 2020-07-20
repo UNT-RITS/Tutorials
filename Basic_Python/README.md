@@ -81,7 +81,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 
  - What is an Artificial Neural Network?
     - What are the main components and why do we need each of them?
-    - Architectures of Artificial Neural Network.
+ - Architectures of Artificial Neural Network.
  - What is Deep Learning?
  - What is Machine Learning?
  - How to code your own model?
