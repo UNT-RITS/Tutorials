@@ -94,10 +94,6 @@ In the following table it is a clear distinction and classification of some func
 
 ## Architectures of Artificial Neural Network
 
-# Artificial Neural Networks Architectures
-
-# :construction: ... Work in Progress ... :construction:
-
 Content
 
 - [Introduction]()
