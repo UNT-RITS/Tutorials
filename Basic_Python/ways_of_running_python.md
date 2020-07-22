@@ -5,6 +5,9 @@
 :bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
 </div>
 
+There are mainly two ways of running a Python script: offline - using your local computer resources & online - using a server's resources. 
+
+We will describe each option in particular, providing pros and cons, as well as tutorials for more in depth guidance.
 
 ## :computer: **OFFLINE** 
 a). **From an IDE/Editor**: 
