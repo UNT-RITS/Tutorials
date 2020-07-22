@@ -88,7 +88,7 @@ Waiting for people to go through all these like:
 - Support Vector Machine (SVM) Neural Networks
 - Neural Turing Machine (NTM) Neural Networks
 
-### 3. [Machine Learning & training & evaluation](). What we cover:
+### 3. [Machine Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/MachineLearning.md). What we cover:
 
  - Introduction
  - Machine Learning Categories by the level of human supervision:
