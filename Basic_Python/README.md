@@ -1,9 +1,19 @@
 # About Python :thought_balloon:
 
+<div align="right">
+<p> :calendar: Summer, 2020
+:bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
+</div>
+
 Python is one of the most popular high-level languages on Talon3. It is mainly used for software development, scripting, and artificial intelligence. It works on multiple platforms, such as: Windows, Mac, Linux, Raspberry Pi etc.
 
 A Python code/program/script is a collection of commands in a file designed to be executed in a particular sequence in order to perform a specific task. 
 
+<div align="center">
+<img src="https://i.imgur.com/MtIi7Iv.gif">
+</div> 
+
+:copyright: _Image found on [imgur.com](https://imgur.com/gallery/si9OZ)_
 
 -------------------------------------------------------------------------------------------------------------------------
 
@@ -123,16 +133,6 @@ Waiting for people to go through all these like:
 
     ★	Got an error? Try to read carefully the output message, it might be intuitive. No? – Google it!
     
-<div align="center">
-<img src="https://i.imgur.com/MtIi7Iv.gif">
-</div> 
-
-:copyright: _Image found on [imgur.com](https://imgur.com/gallery/si9OZ)_
-
-:calendar: Summer, 2020
-
-:bust_in_silhouette: Author [Lavinia Florentina](https://github.com/laviniaflorentina)
-
 ------------------------
 ## References
 
