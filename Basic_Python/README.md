@@ -9,6 +9,9 @@ Python is one of the most popular high-level languages on Talon3. It is mainly u
 
 A Python code/program/script is a collection of commands in a file designed to be executed in a particular sequence in order to perform a specific task. 
 
+
+**NOTE.** This tutorial is only for educational purpose. It is not an academic paper. All references are listed at the end of the file.
+
 <div align="center">
 <img src="https://i.imgur.com/MtIi7Iv.gif">
 </div> 
