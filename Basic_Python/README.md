@@ -29,23 +29,21 @@ A Python code/program/script is a collection of commands in a file designed to b
 
 <img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
 
-  
 ### 4. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
- 
+
  - How a short program does it looks like?
  - What are the main components of a program?
    - Imports
    - Input
    - Defined functions/ Algorithms/ Build-in functions
    - Output
- .
    
 Waiting for people to go through all these like: 
 
 :copyright: _Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)_ 
 
 -----------------------------------------------   
-## B. How to code Neural Network models in Python
+## B. Artificial Neural Network in Python
 
 ### 1. [What is an Artificial Neural Network?](). What we cover:
 
