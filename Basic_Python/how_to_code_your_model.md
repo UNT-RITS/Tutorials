@@ -14,7 +14,7 @@
 -------------------
 
 <div align="center">
-<p> <b>THE END!</b> <i>(of this folder)</i></p>  
+<p> <b>THE END!</b> <i>(of this section)</i></p>  
 <img src="https://thumbs.gfycat.com/HugeScaredHorsechestnutleafminer-size_restricted.gif">
 </div>
 
