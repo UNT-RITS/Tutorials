@@ -215,6 +215,18 @@ data.head() # you can indicate between () the number of rows to be shown
 
 Read [Python Tutorials and References](https://www.afterhoursprogramming.com/?article=181) course from After Hours Programming.
 
+
+-------------------
+
+<div align="center">
+<p> <b>THE END!</b> <i>(of this section)</i></p>  
+<img src="https://thumbs.gfycat.com/HugeScaredHorsechestnutleafminer-size_restricted.gif">
+</div>
+
+:copyright: _Image found on [gfycat.com](https://gfycat.com/hugescaredhorsechestnutleafminer)_
+
+Wanna check more?
+
 --------------------------
 
 <img src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
