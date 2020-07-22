@@ -81,3 +81,12 @@ We use differentiation in almost every part of Machine Learning and Deep Learnin
 In the following table it is a clear distinction and classification of some functions and their derivates.
 
 ![ANNs](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/images/ann2.png)
+
+--------------------------
+
+<img src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
+
+<div align="right">
+<b> NEXT:  </b> 
+<a href="https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/architectures.md#artificial-neural-networks-architectures" ><i>  Architectures of Artificial Neural Network </i></a> 
+</div>  
