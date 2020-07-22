@@ -45,7 +45,7 @@ Waiting for people to go through all these like:
 -----------------------------------------------   
 ## B. Artificial Neural Network in Python
 
-### 1. [What is an Artificial Neural Network?](). What we cover:
+### 1. [What is an Artificial Neural Network?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/what_is_ann.md). What we cover:
 
  - What is an Artificial Neural Network?
  - What are the main components and why do we need each of them?
