@@ -44,7 +44,9 @@ This folder contains information from previous UNT RITS Workshops of HPC and DSA
 
 <div align="right">
  <p> <i> Waiting for people to go through all these like: </i> </p>
+ 
 <img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
+
  <p> :copyright: <i> Image found on <a href="https://imgur.com/gallery/RNRfRE1"> imgur.com </a> </i> </p>
 </div>
 
