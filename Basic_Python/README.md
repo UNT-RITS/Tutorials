@@ -53,7 +53,7 @@ Waiting for people to go through all these like:
    - Activation Function: Linear Activation Function and Non-linear Activation Function (Sigmoid, Tanh & ReLU)
    - Derivatives
    
-### 2. [Architectures of Artificial Neural Network](). What we cover:
+### 2. [Architectures of Artificial Neural Network](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/architectures.md). What we cover:
 
 - Introduction
 - Feedforward Neural Networks (FF):
