@@ -50,7 +50,7 @@ A Python code/program/script is a collection of commands in a file designed to b
    - Defined functions/ Algorithms/ Build-in functions
    - Output
    
-Waiting for people to go through all these like: 
+_Waiting for people to go through all these like:_ 
 
 :copyright: _Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)_ 
 
@@ -65,7 +65,7 @@ If you want to apply some of the exciting models that creates false images or vi
 
 This repository exposes all the terminology used in Neural Networks, as well as it presents and explains the most common used algorithms that you need to know in order to understand how to build your own model.
 
-That moment when you think AI is easy and you get sucked in by all the tutorials: 
+_That moment when you think AI is easy and you get sucked in by all the tutorials:_ 
 
 :copyright: _Image found on [Pinterest](https://ro.pinterest.com/pin/234468724337470040/)_
 
