@@ -469,3 +469,8 @@ Other open source implementations of NTMs exist but are not sufficiently stable 
 <b> NEXT: </b> 
 <a href="" ><i>Machine Learning</i></a> 
 </div>  
+
+
+:calendar: Summer, 2020
+
+:bust_in_silhouette: Author [Lavinia Florentina](https://github.com/laviniaflorentina)
