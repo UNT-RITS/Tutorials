@@ -11,23 +11,23 @@ A Python code/program/script is a collection of commands in a file designed to b
 
 ## A. Basics in Python
 
-### 1. [Ways of running Python code](). What we cover:
+### 1. [Ways of running Python code](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/ways_of_running_python.md#ways-of-running-python-code). What we cover:
 
 - Running Offline (on your computer)
 - Running Online (on a server)
 
-### 1. [More about IDE & Editors](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What we cover:
+### 2. [More about IDE & Editors](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What we cover:
 
  - What is the difference between an IDE and a Code Editor?
  - Some IDEs described: PyCharm, Eclipse, Visual Studio.
  - Some Editors described: Sublime Text, Atom, Visual Studio Code.
  
-### 2. [How to get started with Google Colab & Jupyter Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What I cover:
+### 3. [How to get started with Google Colab & Jupyter Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What I cover:
 
 - Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
 - Jupyter Notebook (New Notebook, Main Features)
 
-### 3. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
+### 4. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
  
  - How a short program does it looks like?
  - What are the main components of a program?
