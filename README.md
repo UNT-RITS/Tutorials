@@ -1,5 +1,10 @@
 # About HPC (Talon3) :mag_right:
 
+<div align="right">
+<p> :calendar: Summer, 2020
+:bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
+</div>
+
 This repo contains various tutorials and example projects using HPC.
 
 ## What is UNT HPC?
@@ -74,29 +79,21 @@ Content:
 ### [More about IDE & Editors for Python](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python). What we cover:
 
  - What is the difference between an IDE and a Code Editor?
- 
  - Some IDEs described: PyCharm, Eclipse, Visual Studio.
- 
  - Some Editors described: Sublime Text, Atom, Visual Studio Code.
 
 ### [How to get started with Google Colab & Jupyter Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What we cover:
 
 - Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
-
 - Jupyter Notebook (New Notebook, Main Features)
 
 ### [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
  
  - How a short program does it looks like?
- 
  - What are the main components of a program?
- 
    - Imports
-   
    - Input
-   
    - Defined functions/ Algorithms/ Build-in functions
-   
    - Output
   
 ### [How to code Neural Network models in Python](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#how-to-code-neural-network-models-in-python). What we cover:
@@ -117,10 +114,3 @@ Content: :soon:
 
 Content: :soon:
 
-
-
---------------------------
-
-:calendar: Summer, 2020
-
-:bust_in_silhouette: Author [Lavinia Florentina](https://github.com/laviniaflorentina)
