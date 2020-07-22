@@ -225,9 +225,9 @@ Read [Python Tutorials and References](https://www.afterhoursprogramming.com/?ar
 
 :copyright: _Image found on [gfycat.com](https://gfycat.com/hugescaredhorsechestnutleafminer)_
 
-Wanna check more?
+-------------------
 
---------------------------
+## Wanna check more?
 
 <img src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
 
