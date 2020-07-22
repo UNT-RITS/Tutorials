@@ -1,5 +1,10 @@
 # Python code structure 
 
+<div align="right">
+<p> :calendar: Summer, 2020
+:bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
+</div>
+
 Content:
 - [Introduction](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#introduction)
 - [Python Input](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#python-input)
@@ -210,3 +215,11 @@ data.head() # you can indicate between () the number of rows to be shown
 
 Read [Python Tutorials and References](https://www.afterhoursprogramming.com/?article=181) course from After Hours Programming.
 
+--------------------------
+
+<img src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
+
+<div align="right">
+<b> NEXT:  </b> 
+<a href="https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/what_is_ann.md#what-is-an-artificial-neural-network" ><i>  What is an Artificial Neural Network? </i></a> 
+</div>  
