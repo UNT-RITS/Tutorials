@@ -111,16 +111,16 @@ Waiting for people to go through all these like:
    - Self-Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
    - Reinforcement Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
 
-### 4. [Training](). What we cover:
+### 4. [Training](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/training.md). What we cover:
 
 - What is training?
 
-### 5. [Evaluation](). What we cover:
+### 5. [Evaluation](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/evaluation.md). What we cover:
 
 - Model Evaluation
 - Training Evaluation
 
-### 6. [How to code your own model?](). What we cover:
+### 6. [How to code your own model?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_your_model.md). What we cover:
 - Simple model
 - Text based model
 - Image based model
