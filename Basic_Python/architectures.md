@@ -470,6 +470,6 @@ Other open source implementations of NTMs exist but are not sufficiently stable 
 
 <div align="right">
 <b> NEXT: </b> 
-<a href="" ><i>Machine Learning</i></a> 
+<a href="https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/MachineLearning.md#machine-learning" ><i>Machine Learning</i></a> 
 </div>  
 
