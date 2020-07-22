@@ -110,3 +110,8 @@ Content: :soon:
 
 
 
+--------------------------
+
+:calendar: Summer, 2020
+
+:bust_in_silhouette: Author [Lavinia Florentina](https://github.com/laviniaflorentina)
