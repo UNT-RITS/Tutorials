@@ -1,5 +1,10 @@
 # More about IDEs and Code Editors for Python
 
+<div align="right">
+<p> :calendar: Summer, 2020
+:bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
+</div>
+
 Content
 - [What is the difference between an IDE and a Code Editor?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#what-is-the-difference-between-an-ide-and-a-code-editor)
 - [Some IDEs described](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#ides)
@@ -90,6 +95,9 @@ Eclipse is an integrated development environment used in computer programming. I
 
 --------------------------
 
-:calendar: Summer, 2020
+<img src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
 
-:bust_in_silhouette: Author [Lavinia Florentina](https://github.com/laviniaflorentina)
+<div align="right">
+<b> NEXT:  </b> 
+<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook" ><i> How to get started with Google Colaboratory & Jupyter Notebook </i></a> 
+</div>  
