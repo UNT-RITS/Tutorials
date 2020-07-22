@@ -63,13 +63,14 @@ This folder contains information from previous UNT RITS Workshops of HPC and DSA
 
 :bust_in_silhouette: Author [George Mihaila](https://gmihaila.github.io)
 
+
 <div align="right">
  
  <p> :copyright: <i> Image found on <a href="https://imgur.com/gallery/RNRfRE1"> imgur.com </a> </i> </p>
  
 </div>
 
----------------------------
+
 
 # B. Programming Languages:
 
