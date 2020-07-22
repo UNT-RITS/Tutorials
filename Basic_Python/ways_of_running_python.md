@@ -59,10 +59,10 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 --------------------------
 
 <div align="centre"> src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" 
+</div>
+
 
 <div align="right">
 <b> NEXT:  </b> 
 <a href="https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#more-about-ides-and-code-editors-for-python" ><i> More about IDEs and Code Editors for Python </i></a> 
 </div>  
-
-</div>
