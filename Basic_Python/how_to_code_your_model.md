@@ -9,3 +9,13 @@
 
 
 :soon:
+
+
+-------------------
+
+<div align="center">
+<p> <b>THE END!</b> <i>(of this folder)</i></p>  
+<img src="https://thumbs.gfycat.com/HugeScaredHorsechestnutleafminer-size_restricted.gif">
+</div>
+
+:copyright: _Image found on [gfycat.com](https://gfycat.com/hugescaredhorsechestnutleafminer)_
