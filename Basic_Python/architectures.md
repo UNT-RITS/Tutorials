@@ -1,5 +1,11 @@
 # Artificial Neural Networks Architectures
 
+<div align="right">
+<p> :calendar: Summer, 2020
+  
+:bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
+</div>
+
 ----------------------------
 
 Content:
@@ -470,7 +476,3 @@ Other open source implementations of NTMs exist but are not sufficiently stable 
 <a href="" ><i>Machine Learning</i></a> 
 </div>  
 
-
-:calendar: Summer, 2020
-
-:bust_in_silhouette: Author [Lavinia Florentina](https://github.com/laviniaflorentina)
