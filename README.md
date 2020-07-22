@@ -43,9 +43,7 @@ This folder contains information from previous UNT RITS Workshops of HPC and DSA
 :bust_in_silhouette: Author [George Mihaila](https://gmihaila.github.io)
 
 <div align="right">
- 
- <p> :copyright: <i> Image found on <a href="https://imgur.com/gallery/RNRfRE1"> imgur.com </a> </i> </p>
- 
+
  <p> <i> Waiting for people to go through all these like: </i> </p>
  
 <img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
@@ -65,7 +63,11 @@ This folder contains information from previous UNT RITS Workshops of HPC and DSA
 
 :bust_in_silhouette: Author [George Mihaila](https://gmihaila.github.io)
 
-
+<div align="right">
+ 
+ <p> :copyright: <i> Image found on <a href="https://imgur.com/gallery/RNRfRE1"> imgur.com </a> </i> </p>
+ 
+</div>
 ---------------------------
 
 # B. Programming Languages:
