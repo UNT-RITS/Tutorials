@@ -27,6 +27,9 @@ A Python code/program/script is a collection of commands in a file designed to b
 - Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
 - Jupyter Notebook (New Notebook, Main Features)
 
+<img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
+
+  
 ### 4. [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
  
  - How a short program does it looks like?
@@ -35,10 +38,16 @@ A Python code/program/script is a collection of commands in a file designed to b
    - Input
    - Defined functions/ Algorithms/ Build-in functions
    - Output
+ .
+   
+Waiting for people to go through all these like: 
 
+:copyright: _Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)_ 
+
+-----------------------------------------------   
 ## B. How to code Neural Network models in Python
 
-### 1. What is an Artificial Neural Network?](). What we cover:
+### 1. [What is an Artificial Neural Network?](). What we cover:
 
  - What is an Artificial Neural Network?
  - What are the main components and why do we need each of them?
@@ -46,7 +55,7 @@ A Python code/program/script is a collection of commands in a file designed to b
    - Activation Function: Linear Activation Function and Non-linear Activation Function (Sigmoid, Tanh & ReLU)
    - Derivatives
    
-### 2. Architectures of Artificial Neural Network](). What we cover:
+### 2. [Architectures of Artificial Neural Network](). What we cover:
 
 - Introduction
 - Feedforward Neural Networks (FF):
