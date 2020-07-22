@@ -68,6 +68,7 @@ This folder contains information from previous UNT RITS Workshops of HPC and DSA
  <p> :copyright: <i> Image found on <a href="https://imgur.com/gallery/RNRfRE1"> imgur.com </a> </i> </p>
  
 </div>
+
 ---------------------------
 
 # B. Programming Languages:
