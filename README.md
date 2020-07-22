@@ -23,7 +23,7 @@ Talon 3 is the main computing facility that RITS supports which contains:
  
 :globe_with_meridians: Website: https://hpc.unt.edu 
 
-:office: Location: General Academic Building (GAB), **Room 535**.
+:office: Location: *General Academic Building (GAB)*, **Room 535**.
 
 :mailbox_with_mail: Contact Us: https://hpc.unt.edu/contact
 
