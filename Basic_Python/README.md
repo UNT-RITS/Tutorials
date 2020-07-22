@@ -58,6 +58,19 @@ Waiting for people to go through all these like:
 -----------------------------------------------   
 ## B. Artificial Neural Network in Python
 
+**Artificial Inteligence (AI)** is a field in Computer Science where the code is _dynamic_, being able to learn by itself, “observing” (word substitute for “applying mathematical magic beasts”) other similar situations. Those special types of codes are named Artificial Neural Networks. They aim to keep up with this ever-changing world by self-adapting and learning on the fly.  
+
+If you want to apply some of the exciting models that creates false images or videos of celebrities or drive self-driving cars, or if you just wonder about what Artificial Inteligence is about, you might find this repository useful.
+
+This repository exposes all the terminology used in Neural Networks, as well as it presents and explains the most common used algorithms that you need to know in order to understand how to build your own model.
+
+<img align="right" src="https://i.pinimg.com/originals/72/f4/0e/72f40e467447d149f5b1a47b5ac350c3.gif"> 
+
+That moment when you think AI is easy and you get sucked in by all the tutorials: 
+
+:copyright: _Image found on [Pinterest](https://ro.pinterest.com/pin/234468724337470040/)_
+
+----------------------------------------------- 
 ### 1. [What is an Artificial Neural Network?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/what_is_ann.md). What we cover:
 
  - What is an Artificial Neural Network?
