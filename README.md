@@ -42,9 +42,12 @@ This folder contains information from previous UNT RITS Workshops of HPC and DSA
 
 :bust_in_silhouette: Author [George Mihaila](https://gmihaila.github.io)
 
-
+<div align="right">
+ <p> <i> Waiting for people to go through all these like: </i>
+  
+:copyright: <i> Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1) </i>  
 <img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
-
+</div>
 
 ## [Predict Movie Review Sentiment Positive/Negative](https://github.com/UNT-RITS/Tutorials/tree/master/workshops/may_2_2019#predict-movie-review-sentiment-positivenegative)
 
@@ -59,11 +62,6 @@ This folder contains information from previous UNT RITS Workshops of HPC and DSA
 
 :bust_in_silhouette: Author [George Mihaila](https://gmihaila.github.io)
 
-
-
-_Waiting for people to go through all these like:_ 
-
-:copyright: _Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)_ 
 
 ---------------------------
 
