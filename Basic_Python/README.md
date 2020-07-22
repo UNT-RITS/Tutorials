@@ -95,3 +95,9 @@ While the browser method seem to be the easiest one to go with, sometime you mig
     ★	Upload some toy dataset and start playing around – apply any function/method and see how it works and if you can handle it.
 
     ★	Got an error? Try to read carefully the output message, it might be intuitive. No? – Google it!
+    
+--------------------------
+
+:calendar: Summer, 2020
+
+:bust_in_silhouette: Author [Lavinia Florentina](https://github.com/laviniaflorentina)
