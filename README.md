@@ -70,7 +70,7 @@ This folder contains information from previous UNT RITS Workshops of HPC and DSA
  
 </div>
 
-
+---------------------------
 
 # B. Programming Languages:
 
