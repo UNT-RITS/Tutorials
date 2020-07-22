@@ -37,11 +37,16 @@ This folder contains information from previous UNT RITS Workshops of HPC and DSA
 
 :bust_in_silhouette: Author [George Mihaila](https://gmihaila.github.io)
 
+
+<img align="right" src="https://jowritesstuff.files.wordpress.com/2016/10/wbxqwb3.gif"> 
+
+
 ### [Predict Movie Review Sentiment Positive/Negative](https://github.com/UNT-RITS/Tutorials/tree/master/workshops/may_2_2019#predict-movie-review-sentiment-positivenegative)
 
 :calendar: May 2nd, 2019
 
 :bust_in_silhouette: Author [George Mihaila](https://gmihaila.github.io)
+
 
 ### [Use Python on Talon Workshop](https://github.com/UNT-RITS/Tutorials/tree/master/workshops/may_1_2019#use-python-on-talon-workshop) & [Use Jupyter Notebook on Talon](https://github.com/UNT-RITS/Tutorials/blob/master/workshops/may_1_2019/use_jupyter.md#use-jupyter-notebook-on-talon)
 
@@ -86,7 +91,7 @@ Content:
    - Defined functions/ Algorithms/ Build-in functions
    
    - Output
-
+  
 #### [How to code Neural Network models in Python](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#how-to-code-neural-network-models-in-python). What we cover:
 
  - What is an Artificial Neural Network?
