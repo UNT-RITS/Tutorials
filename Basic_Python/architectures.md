@@ -5,8 +5,6 @@
 :bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
 </div>
 
-----------------------------
-
 Content:
 
 - [Introduction](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/architectures.md#introduction)
