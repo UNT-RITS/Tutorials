@@ -9,7 +9,7 @@ This repo contains various tutorials and example projects using HPC.
 
 ## What is UNT HPC?
 
-UNT HPC is a part of Research IT Services, offering state-of-the-art computing, storage, visualization, and networking service to the university. We help researchers and other members of UNT use advance computing power to enable higher research throughput and expand research capabilities.
+**UNT HPC** is a part of **Research IT Services (RITS)**, offering state-of-the-art computing, resources, visualization, and networking service to the university. We help researchers and other members of UNT use advance computing power to enable higher research throughput and expand research capabilities.
 
 ## HPC Flagship Resources
 
@@ -34,7 +34,7 @@ Talon 3 is the main computing facility that RITS supports which contains:
 # What's next in this cool repo? :octocat:
 
 # A. [Workshops](https://github.com/UNT-RITS/Tutorials/tree/master/workshops#hpc-workshops)
-This folder contains information from previous UNT RITS Workshops of HPC and DSA.
+This folder contains information from previous UNT RITS Workshops of HPC and **Data Science and Analytics (DSA)**.
 
 ## [Find new sentiments in text data](https://github.com/UNT-RITS/Tutorials/tree/master/workshops/march_3_2020#find-new-sentiments-in-text-data)
 
