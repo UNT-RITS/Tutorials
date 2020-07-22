@@ -59,12 +59,13 @@ This folder contains information from previous UNT RITS Workshops of HPC and DSA
 
 :bust_in_silhouette: Author [George Mihaila](https://gmihaila.github.io)
 
----------------------
 
-Waiting for people to go through all these like: 
+
+_Waiting for people to go through all these like:_ 
 
 :copyright: _Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)_ 
 
+---------------------------
 
 # B. Programming Languages:
 
