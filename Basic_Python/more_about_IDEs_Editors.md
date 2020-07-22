@@ -86,3 +86,10 @@ Eclipse is an integrated development environment used in computer programming. I
 :grinning: It is very light in weight and takes very little time to start. VS Code is really good at allowing customization and extensibility. There are a ton of extensions to use for all types of workflow enhancement. 
 
 :unamused: You can't open the same project in two different windows. A forward approach to git repositories is to have a 'monorepo'. This doesn't the best with VSCode since you can't open the same project in multiple windows. 
+
+
+--------------------------
+
+:calendar: Summer, 2020
+
+:bust_in_silhouette: Author [Lavinia Florentina](https://github.com/laviniaflorentina)
