@@ -9,7 +9,6 @@ Python is one of the most popular high-level languages on Talon3. It is mainly u
 
 A Python code/program/script is a collection of commands in a file designed to be executed in a particular sequence in order to perform a specific task. 
 
-
 **NOTE.** This tutorial is only for educational purpose. It is not an academic paper. All references are listed at the end of the file.
 
 <div align="center">
@@ -62,9 +61,9 @@ Waiting for people to go through all these like:
 
 If you want to apply some of the exciting models that creates false images or videos of celebrities or drive self-driving cars, or if you just wonder about what Artificial Inteligence is about, you might find this repository useful.
 
-This repository exposes all the terminology used in Neural Networks, as well as it presents and explains the most common used algorithms that you need to know in order to understand how to build your own model.
-
 <img align="right" src="https://i.pinimg.com/originals/72/f4/0e/72f40e467447d149f5b1a47b5ac350c3.gif"> 
+
+This repository exposes all the terminology used in Neural Networks, as well as it presents and explains the most common used algorithms that you need to know in order to understand how to build your own model.
 
 That moment when you think AI is easy and you get sucked in by all the tutorials: 
 
