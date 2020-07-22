@@ -1,4 +1,4 @@
-# How to code your model in Python?
+# How to code your own model in Python?
 
 # :construction: ... Work in Progress ... :construction:
 
