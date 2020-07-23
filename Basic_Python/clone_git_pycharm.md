@@ -1,4 +1,4 @@
-# How to clone a GitHub repository to a server and run it from your IDE
+# How to clone a GitHub project to a server and run it from your IDE
 
 ## Introduction
 
@@ -112,6 +112,14 @@ Why to have them in both places? Because you will prefer to work on a file from 
 Therefore, having the project in both places you work locally, but the program will run on the server’s resources.
 
 
+--------------------------
+
+<img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
+
+<div align="right">
+<b> NEXT:  </b> 
+<a href="https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md#python-code-structure" ><i> Python code structure </i></a> 
+</div>  
 
 
 
