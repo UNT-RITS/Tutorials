@@ -55,7 +55,7 @@ _Waiting for people to go through all these like:_
 :copyright: _Image found on [imgur.com](https://imgur.com/gallery/RNRfRE1)_ 
 
 -----------------------------------------------   
-## B. Artificial Neural Network in Python
+## B. Artificial Neural Networks with Python
 
 **Artificial Inteligence (AI)** is a field in Computer Science where the code is _dynamic_, being able to learn by itself, “observing” (word substitute for “applying mathematical magic beasts”) other similar situations. Those special types of codes are named Artificial Neural Networks. They aim to keep up with this ever-changing world by self-adapting and learning on the fly.  
 
