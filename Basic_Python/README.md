@@ -37,7 +37,7 @@ A Python code/program/script is a collection of commands in a file designed to b
  - Some IDEs described: PyCharm, Eclipse, Visual Studio.
  - Some Editors described: Sublime Text, Atom, Visual Studio Code.
  
-### 3. [How to get started with Google Colab & Jupyter Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What I cover:
+### 3. [How to get started with Google Colab & Jupyter Notebook](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What I cover:
 
 - Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
 - Jupyter Notebook (New Notebook, Main Features)
