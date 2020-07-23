@@ -15,7 +15,10 @@ A Python code/program/script is a collection of commands in a file designed to b
 <img src="https://i.imgur.com/MtIi7Iv.gif">
 </div> 
 
-:copyright: _Image found on [imgur.com](https://imgur.com/gallery/si9OZ)_
+<div align="center">
+<p> <i> :copyright: Image found on <a href="https://imgur.com/gallery/si9OZ"> imgur.com </a></i></p>  
+</div>
+
 
 -------------------------------------------------------------------------------------------------------------------------
 
