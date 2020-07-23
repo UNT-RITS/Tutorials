@@ -88,10 +88,16 @@ Content:
  - Some IDEs described: PyCharm, Eclipse, Visual Studio.
  - Some Editors described: Sublime Text, Atom, Visual Studio Code.
 
-### [How to get started with Google Colab & Jupyter Notebook](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What we cover:
+### [How to get started with Google Colab & Jupyter Notebook](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/online_in_browser.md#how-to-get-started-with-google-colaboratory--jupyter-notebook). What we cover:
 
 - Google Colab (New Notebook, Main Features, Runtime Environment, Download & Share the Notebook)
 - Jupyter Notebook (New Notebook, Main Features)
+
+### [How to clone a GitHub project to a server and run it from your IDE](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/clone_git_pycharm.md#how-to-clone-a-github-project-to-a-server-and-run-it-from-your-ide). What we cover:
+
+- How to clone a GitHub Project Repository to a server
+- How to syncronize the project from your local machine with the one on the server
+- How to run it from your IDE
 
 ### [Python code structure](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/Python%20code%20structure.md). What we cover:
  
