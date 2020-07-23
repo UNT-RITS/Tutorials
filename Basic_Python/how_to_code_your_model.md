@@ -20,6 +20,5 @@
 
 <div align="center">
 <p> <i>:copyright: Image found on <a href="https://gfycat.com/hugescaredhorsechestnutleafminer"> gfycat.com </a></i></p>  
-
 </div>
 
