@@ -58,7 +58,7 @@ While the browser method seem to be the easiest one to go with, sometime you mig
 
 --------------------------
 
-<img src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
+<img src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="450">
 
 <div align="right">
 <b> NEXT:  </b> 
