@@ -12,7 +12,7 @@
 
 --------------------------
 
-<img src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
+<img src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="430">
 
 <div align="right">
 <b> NEXT:  </b> 
