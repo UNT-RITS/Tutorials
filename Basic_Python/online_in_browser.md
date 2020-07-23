@@ -214,6 +214,7 @@ I will describe each feature marked in the above screenshot.
 <img align="centre" src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="450">
 
 <div align="right">
-<b>:arrow_right:  </b> 
-<a href="ttps://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/clone_git_pycharm.md#how-to-clone-a-github-project-to-a-server-and-run-it-from-your-ide" ><i> How to clone a GitHub Project to a server and run it from your IDE </i></a> 
+<b> NEXT:  </b> 
+<a href="ttps://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/clone_git_pycharm.md#how-to-clone-a-github-project-to-a-server-and-run-it-from-your-ide">
+<i> How to clone a GitHub Project to a server and run it from your IDE </i></a> 
 </div>  
