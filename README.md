@@ -102,7 +102,7 @@ Content:
    - Defined functions/ Algorithms/ Build-in functions
    - Output
   
-### [How to code Neural Network models in Python](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_your_model.md#how-to-code-your-model-in-python). What we cover:
+### [How to code Neural Network models in Python](https://github.com/UNT-RITS/Tutorials/tree/master/Basic_Python#b-artificial-neural-network-in-python). What we cover:
 
 - What is an Artificial Neural Network?
 - Architectures of Artificial Neural Network
