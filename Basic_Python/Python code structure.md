@@ -229,7 +229,7 @@ Read [Python Tutorials and References](https://www.afterhoursprogramming.com/?ar
 
 ## Wanna check more?
 
-<img src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="400">
+<img src="https://media.giphy.com/media/4T1Sf6UvSXYyLJ5tUS/giphy.gif" width="400" height="450">
 
 <div align="right">
 <b> NEXT:  </b> 
