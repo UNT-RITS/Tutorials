@@ -120,3 +120,13 @@ Content: :soon:
 
 Content: :soon:
 
+-------------------------------------------------------------------------------------------------------
+
+## :bulb: TIPS AND TRICKS in learning to code (applicable to any programming language):
+
+    ★	Try to write the commands on your own to get used to the syntax. Avoid the copy-paste.
+
+    ★	Upload some toy dataset and start playing around – apply any function/method and see how it works and if you can handle it.
+
+    ★	Got an error? Try to read carefully the output message, it might be intuitive. No? – Google it!
+    
