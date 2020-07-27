@@ -32,7 +32,6 @@ In the following table we compare the two approaches in terms of processing styl
 |  |<img align="center" src="https://imgs.developpaper.com/imgs/4242287179-5cd27a62560db_articlex.png" width="300" height="150"> | <img align="center" src="https://miro.medium.com/max/1400/1*8iZlPEtZyUXUEcCvz4UGwA.png" width="250" height="150"> |
 | |:copyright: Image found on [developpaper](https://developpaper.com/talking-about-the-difference-between-machine-learning-and-traditional-programming)|:copyright: Image found on [medium](https://medium.com/@maraktechnologies/the-future-of-software-development-with-artificial-intelligence-fb4589fcb423)|
 
- 
 
 However, they are not totally independent of eachother.
 
