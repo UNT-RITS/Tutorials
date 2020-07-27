@@ -29,7 +29,7 @@ In the following table we compare the two approaches in terms of processing styl
 |  **Functions** | Logical (via rules and calculations)  |  Gestalt (via analysis) |   
 | **Learning method**  | By rules  | By examples  |  
 | **Application** | Word processing, Mathematical functions | Sensor/ speech/ pattern/ text recognition, Prediction/ recommendation systems|
-|  | <img align="center" src="https://imgs.developpaper.com/imgs/4242287179-5cd27a62560db_articlex.png" width="300" height="170"> | <img align="center" src="https://svichub.com/wp-content/uploads/2015/07/robots_0.jpg" width="300" height="200"> |
+|  | <img align="center" src="https://imgs.developpaper.com/imgs/4242287179-5cd27a62560db_articlex.png" width="300" height="150"> | <img align="center" src="https://svichub.com/wp-content/uploads/2015/07/robots_0.jpg" width="300" height="180"> |
 
 However, they are not totally independent of eachother.
 
