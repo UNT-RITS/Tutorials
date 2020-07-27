@@ -29,16 +29,17 @@ In the following table we compare the two approaches in terms of processing styl
 |  **Functions** | Logical (via rules and calculations)  |  Gestalt (via analysis) |   
 | **Learning method**  | By rules  | By examples  |  
 | **Application** | Word processing, Mathematical functions | Sensor/ speech/ pattern/ text recognition, Prediction/ recommendation systems|
-|  | <img align="center" src="https://imgs.developpaper.com/imgs/4242287179-5cd27a62560db_articlex.png" width="300" height="150"> | <img align="center" src="https://www.telegraph.co.uk/content/dam/education/SPARK/stem-awards/innovation/robot-computer-getty.jpg?imwidth=1400" width="250" height="150"> |
+|  | <img align="center" src="https://imgs.developpaper.com/imgs/4242287179-5cd27a62560db_articlex.png" width="300" height="150"><div>
+<p> <i> :copyright: Image found on 
+<a href="https://developpaper.com/talking-about-the-difference-between-machine-learning-and-traditional-programming/"> developpaper.com </a> </i></p> 
+</div>  | <img align="center" src="https://www.telegraph.co.uk/content/dam/education/SPARK/stem-awards/innovation/robot-computer-getty.jpg?imwidth=1400" width="250" height="150"><div>
+  <p> <i> :copyright: Image found on 
+<a href="https://www.telegraph.co.uk/education/stem-awards/innovation/will-robots-take-over-the-world/"> telegraph.co.uk </a> </i></p> 
+</div>  |
 
-<div align="center">
-<p> <i> :copyright: Image found on <a href="https://towardsdatascience.com/notes-on-artificial-intelligence-ai-machine-learning-ml-and-deep-learning-dl-for-56e51a2071c2"> towardsdatascience.com </a> </i></p> 
 
-<div align="right">
-  <p> <i> :copyright: Image found on <a href="https://towardsdatascience.com/notes-on-artificial-intelligence-ai-machine-learning-ml-and-deep-learning-dl-for-56e51a2071c2"> towardsdatascience.com </a> </i></p> 
 
-</div> 
-</div>  
+ 
 
 However, they are not totally independent of eachother.
 
