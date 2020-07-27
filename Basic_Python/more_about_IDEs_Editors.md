@@ -37,14 +37,14 @@ Compared to an IDE, a good dedicated code editor is usually smaller and quicker,
 3. [Visual Studio](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#3-visual-studio)
 
 
-### 1. PyCharm
+### 1. PyCharm - [YouTube](https://www.youtube.com/watch?v=56bPIGf4us0)
 PyCharm is an IDE by JetBrains, designed for professional developers. Some important features include: industry-leading code completion, code navigation, safe refactoring, and smart debugging. All of these and more others contribute to make professional software development a more productive and enjoyable experience. 
 
 :grinning: Its features are really helpful and enhance the coding experience by sending tips on how to use it everytime you open the program.
 
 :unamused: It is quite resource consuming especially when running on earlier versions of Windows operating system.
 
-### 2. Eclipse
+### 2. Eclipse - [YouTube](https://www.youtube.com/watch?v=NDFbXIiqT4o)
 
 Eclipse is an integrated development environment used in computer programming. It contains a base workspace and an extensible plug-in system for customizing the environment. - _Wikipedia_
 
@@ -52,7 +52,7 @@ Eclipse is an integrated development environment used in computer programming. I
 
 :unamused: Updated versions require you to build out your plugins and migrate your projects
 
-### 3. Visual Studio
+### 3. Visual Studio - [YouTube](https://www.youtube.com/watch?v=rq55s2eTyv4)
 
 [Visual Studio](https://www.visualstudio.com/vs/) is a full-featured IDE, in many ways comparable to Eclipse. Built for Windows and Mac OS only, VS comes in both free (Community) and paid (Professional and Enterprise) versions. Visual Studio enables development for a variety of platforms and comes with its own marketplace for extensions.
 
@@ -60,15 +60,17 @@ Eclipse is an integrated development environment used in computer programming. I
 
 :unamused: Visual Studio is a big download for just Python. Plus, if you’re on Linux, you’re out of luck: there’s no Visual Studio install for that platform.
 
-## Editors
+-----------------------
 
-1. [Sublime Text](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#1-sublime-text) 
+# Editors
 
-2. [Atom](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#2-atom)
+1. [Sublime Text](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#1-sublime-text) 
 
-3. [Visual Studio Code](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/more_about_IDEs_Editors.md#3-visual-studio-code)
+2. [Atom](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#2-atom)
 
-### 1. Sublime Text
+3. [Visual Studio Code](https://github.com/laviniaflorentina/Tutorials/blob/master/Python/more_about_IDEs_Editors.md#3-visual-studio-code)
+
+### 1. Sublime Text - [YouTube](https://www.youtube.com/watch?v=xFciV6Ew5r4)
 
 [Sublime Text](http://www.sublimetext.com) is an extremely popular code editor. Available on all platforms, it has Python code editing support and a variant set of packages for syntax and editing features.
 
@@ -76,7 +78,7 @@ Eclipse is an integrated development environment used in computer programming. I
 
 :unamused: It is not open-source (free), although you can use the demo version for an indefinite period of time. 
 
-### 2. Atom
+### 2. Atom - [YouTube](https://www.youtube.com/watch?v=Ei-G0fEOu9I)
 
 [Atom](https://atom.io/) is an open-source editor, with a sleek interface, file system browser, and marketplace for extensions. Available on all platforms, it has Python code editing support by an extension that can be installed when Atom is running.
 
@@ -84,14 +86,13 @@ Eclipse is an integrated development environment used in computer programming. I
 
 :unamused: The build and debugging support aren’t built-in. 
 
-### 3. Visual Studio Code
+### 3. Visual Studio Code - [YouTube](https://www.youtube.com/watch?v=7EXd4_ttIuw)
 
-[Visual Studio Code](https://code.visualstudio.com/docs) Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. - _Wikipedia_
+[Visual Studio Code](https://code.visualstudio.com/docs) is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. - _Wikipedia_
 
 :grinning: It is very light in weight and takes very little time to start. VS Code is really good at allowing customization and extensibility. There are a ton of extensions to use for all types of workflow enhancement. 
 
 :unamused: You can't open the same project in two different windows. A forward approach to git repositories is to have a 'monorepo'. This doesn't the best with VSCode since you can't open the same project in multiple windows. 
-
 
 --------------------------
 
