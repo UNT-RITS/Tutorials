@@ -268,6 +268,6 @@ These algorithms are used for problems such as:
 
 <div align="right">
 <b> NEXT:  </b> 
-<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/training.md#training" ><i> Training</i></a> 
+<a href="https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/training.md#training" ><i> Training</i></a> 
 </div>  
 
