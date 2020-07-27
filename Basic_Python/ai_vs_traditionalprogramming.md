@@ -24,12 +24,14 @@ To combat these inconveniences, people in computer programming world came up wit
 In the following table we compare the two approaches in terms of processing style, functions, learning methods and applications.
 
 | Compared Characteristics  |  Traditional Programming | Artificial Neural Networks  |  
-| ---------------------- | :------------------------: | :-----------------------------: |
+| ---------------------- | :------------------------: | :------------------------: |
 | **Processing Style** |  Sequential |  Parallel |  
 |  **Functions** | Logical (via rules and calculations)  |  Gestalt (via analysis) |   
 | **Learning method**  | By rules  | By examples  |  
 | **Application** | Word processing, Mathematical functions | Sensor/ speech/ pattern/ text recognition, Prediction/ recommendation systems|
-
+|  | <div align="center">
+<img align="center" src="hhttps://imgs.developpaper.com/imgs/4242287179-5cd27a62560db_articlex.png" width="300" height="200">
+</div> | <div align="center"><img align="center" src="https://svichub.com/wp-content/uploads/2015/07/robots_0.jpg" width="300" height="200"></div>  |
 
 However, they are not totally independent of eachother.
 
