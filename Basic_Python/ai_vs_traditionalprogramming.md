@@ -62,7 +62,7 @@ In other words: AI is the big playground, ML is the way in which the computer le
 
 <div align="right">
 <b> NEXT:   </b> 
-<a href="https://github.com/laviniaflorentina/Tutorials/blob/master/ArtificialNeuralNets/Introduction.md#introduction-to-artificial-neural-networks" ><i> Introduction to Artificial Neural Networks</i></a> 
+<a href="https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/what_is_ann.md#what-is-an-artificial-neural-network" ><i> Introduction to Artificial Neural Networks</i></a> 
 </div>  
 
 
