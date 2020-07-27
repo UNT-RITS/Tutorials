@@ -79,7 +79,12 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
 :copyright: _Image found on [Pinterest](https://ro.pinterest.com/pin/234468724337470040/)_
 
 ----------------------------------------------- 
-### 1. [What is an Artificial Neural Network?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/what_is_ann.md). What we cover:
+### 1. [How Artificial Intelligence differs from traditional programming](). What we cover:
+
+- Brief examples and explanations on why AI is different than traditional programming
+- What are the fundamental differences between Artificial Intelligence, Machine Learning, and Deep Learning?
+
+### 2. [Introduction to Artificial Neural Networks](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/what_is_ann.md). What we cover:
 
  - What is an Artificial Neural Network?
  - What are the main components and why do we need each of them?
@@ -132,16 +137,37 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
    - Self-Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
    - Reinforcement Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
 
-### 4. [Training](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/training.md). What we cover:
+### 4. [Algorithms by tasks](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/algorithms.md#algorithms-by-tasks). What we cover:
+
+- Classification:
+  - Perceptron
+  - Logistic Regression
+  - Naive Bayes Classification
+  - Support Vector Machines (SVM)
+  - k-nearest neighbor (KNN)
+  - Decision trees
+- Regression:
+  - Linear Regression 
+  - Polynomial Regression 
+  - Exponential Regression 
+  - Logistic Regression 
+  - Logarithmic Regression 
+- Clustering:
+  - k-Means
+- Dimensionality reduction
+- Visualization:
+  - PCA
+  
+### 5. [Training](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/training.md). What we cover:
 
 - What is training?
 
-### 5. [Evaluation](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/evaluation.md). What we cover:
+### 6. [Evaluation](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/evaluation.md). What we cover:
 
 - Model Evaluation
 - Training Evaluation
 
-### 6. [How to code your own model?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_your_model.md). What we cover:
+### 7. [How to code your own model?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_your_model.md). What we cover:
 - Simple model
 - Text based model
 - Image based model
