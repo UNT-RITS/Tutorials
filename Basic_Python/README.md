@@ -79,7 +79,7 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
 :copyright: _Image found on [Pinterest](https://ro.pinterest.com/pin/234468724337470040/)_
 
 ----------------------------------------------- 
-### 1. [How Artificial Intelligence differs from traditional programming](). What we cover:
+### 1. [How Artificial Intelligence differs from traditional programming](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/ai_vs_traditionalprogramming.md#how-artificial-intelligence-differs-from-traditional-programming). What we cover:
 
 - Brief examples and explanations on why AI is different than traditional programming
 - What are the fundamental differences between Artificial Intelligence, Machine Learning, and Deep Learning?
@@ -92,7 +92,7 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
    - Activation Function: Linear Activation Function and Non-linear Activation Function (Sigmoid, Tanh & ReLU)
    - Derivatives
    
-### 2. [Architectures of Artificial Neural Network](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/architectures.md). What we cover:
+### 3. [Architectures of Artificial Neural Network](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/architectures.md). What we cover:
 
 - Introduction
 - Feedforward Neural Networks (FF):
@@ -127,7 +127,7 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
 - Support Vector Machine (SVM) Neural Networks
 - Neural Turing Machine (NTM) Neural Networks
 
-### 3. [Machine Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/MachineLearning.md). What we cover:
+### 4. [Machine Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/MachineLearning.md). What we cover:
 
  - Introduction
  - Machine Learning Categories by the level of human supervision:
@@ -137,7 +137,7 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
    - Self-Supervised Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
    - Reinforcement Learning in different areas: Text - Natural Language Processing (NLP), Image - Computer Vision, Audio - Automatic Speech Recognition (ASR).
 
-### 4. [Algorithms by tasks](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/algorithms.md#algorithms-by-tasks). What we cover:
+### 5. [Algorithms by tasks](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/algorithms.md#algorithms-by-tasks). What we cover:
 
 - Classification:
   - Perceptron
@@ -158,16 +158,16 @@ _That moment when you think AI is easy and you get sucked in by all the tutorial
 - Visualization:
   - PCA
   
-### 5. [Training](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/training.md). What we cover:
+### 6. [Training](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/training.md). What we cover:
 
 - What is training?
 
-### 6. [Evaluation](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/evaluation.md). What we cover:
+### 7. [Evaluation](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/evaluation.md). What we cover:
 
 - Model Evaluation
 - Training Evaluation
 
-### 7. [How to code your own model?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_your_model.md). What we cover:
+### 8. [How to code your own model?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_your_model.md). What we cover:
 - Simple model
 - Text based model
 - Image based model
