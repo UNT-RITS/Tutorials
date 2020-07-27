@@ -1,12 +1,27 @@
 # How to clone a GitHub project to a server and run it from your IDE
 
+<div align="right">
+<p> :calendar: Summer, 2020
+:bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
+</div>
+
 ## Introduction
 
 Let's say you want to run a project from GitHub. Here is an [official tutorial](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) on how to open GitHub notebooks and browse them from Colab.
 
-However, if you have a bigger GitHub project with multiple folders, subfolders and other interconnected function files, this cannot be easily managed in an Online Notebook due to memory limilations. 
+Although, if you have a bigger GitHub project with multiple folders, subfolders and other interconnected function files, this cannot be easily managed in an Online Notebook due to memory limilations. 
 
-The good news is if you have access to a server with better resources than your computer, you can clone the repository on that server and work on it from your IDE using the server resources.  
+However, you can still run that project with having access to a server with better resources! 
+
+Accessing machines remotely became a necessity. There are many ways to establish a connection with a remote machine (server), depending on the operating system you are running, but the two most used protocols are:
+  - Secure Shell (**SSH**) for Linux-based machines
+  - Remote Desktop Protocol (**RDP**) for Windows-based machines
+  
+The two protocols use the _client and server applications_ to establish a remote connection. These tools allow you to access and remotely manage other computers, transfer files, and do virtually anything like you would've been doing if you were in front of that machine.
+
+In order to be able to access a remote server you need the **IP address** or **the name of the remote machine** you want to connect to.
+
+This tutorial shows how to clone a GitHub repository on a server and work on it from your IDE.  
 
 -------------------------------
 ## **Step 1.** Connect to VPN 
