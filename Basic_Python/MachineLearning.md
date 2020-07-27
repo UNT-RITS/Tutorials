@@ -204,4 +204,4 @@ Reinforcement learning is used in Games ([DeepMind’s AlphaGo](https://deepmind
 
 <div align="right">
 <b> NEXT:  </b> 
-<a href="https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/training.md#training" ><i>  Training </i></a> 
+<a href="https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/algorithms.md#algorithms-by-tasks" ><i>  Algorithms by tasks </i></a> 
