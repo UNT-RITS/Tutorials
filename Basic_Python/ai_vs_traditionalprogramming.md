@@ -24,7 +24,7 @@ To combat these inconveniences, people in computer programming world came up wit
 In the following table we compare the two approaches in terms of processing style, functions, learning methods and applications.
 
 | Compared Characteristics  |  Traditional Programming | Artificial Neural Networks  |  
-| ---------------------------- | :---------------------------------: | :--------------------------------: |
+| ---------------------------- | :--------------------------------------: | :--------------------------------: |
 | **Processing Style** |  Sequential |  Parallel |  
 |  **Functions** | Logical (via rules and calculations)  |  Gestalt (via analysis) |   
 | **Learning method**  | By rules  | By examples  |  
