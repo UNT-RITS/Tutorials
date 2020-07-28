@@ -5,17 +5,14 @@
 :bust_in_silhouette: Author <a href="https://github.com/laviniaflorentina"> Lavinia Florentina </a> </p>
 </div>
 
-
 Content:
-
-[What is Machine Learning?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#what-is-machine-learning)
-
-[Machine Learning Categories by the level of human supervision:]()
-  1. [Supervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#1-supervised-learning)
-  2. [Unsupervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#2unsupervised-learning)
-  3. [Semi-Supervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#3semi-supervised-learning)
-  4. [Self-Supervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#4self-supervised-learning)
-  5. [Reinforcement Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#5reinforcement-learning-rl)
+- [What is Machine Learning?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#what-is-machine-learning)
+- [Machine Learning Categories by the level of human supervision:]()
+  - [Supervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#1-supervised-learning)
+  - [Unsupervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#2unsupervised-learning)
+  - [Semi-Supervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#3semi-supervised-learning)
+  - [Self-Supervised Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#4self-supervised-learning)
+  - [Reinforcement Learning](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/how_to_code_NN_models_in_python.md#5reinforcement-learning-rl)
 
 ---------------------
 
