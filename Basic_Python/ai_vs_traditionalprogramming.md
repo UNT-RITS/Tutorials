@@ -9,7 +9,7 @@
 Content:
 
 - [Brief examples and explanations on why AI is different than traditional programming](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/ai_vs_traditionalprogramming.md#brief-examples-and-explanations-on-why-ai-is-different-than-traditional-programming)
-- :bonus: BONUS:
+- :gift: BONUS:
     - [What are the fundamental differences between Artificial Intelligence, Machine Learning, and Deep Learning?](https://github.com/UNT-RITS/Tutorials/blob/master/Basic_Python/ai_vs_traditionalprogramming.md#what-are-the-fundamental-differences-between-artificial-intelligence-machine-learning-and-deep-learning)
 
 --------------------------
@@ -38,7 +38,7 @@ However, they are not totally independent of eachother.
 
 Notice that traditional computing is still important! All the new tools of AI are just a smart combination of functions from conventional approaches. For example, to create a text prediction system (AI model) you need to translate the input text examples into something that a computer understands – a vector representation, which is word processing (traditional computing method).
 
-# :bonus: BONUS
+# :gift: BONUS
 
 ## What are the fundamental differences between Artificial Intelligence, Machine Learning, and Deep Learning?
 
