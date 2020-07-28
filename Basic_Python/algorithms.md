@@ -8,10 +8,6 @@
 </div>
 
 Content:
-
-
-Content:
-
 - [Classification]():
   - Perceptron
   - Logistic Regression
@@ -19,21 +15,18 @@ Content:
   - Support Vector Machines (SVM)
   - k-nearest neighbor (KNN)
   - Decision trees 
-
 - [Regression]():
   - Linear Regression 
   - Polynomial Regression 
   - Exponential Regression 
   - Logistic Regression 
   - Logarithmic Regression 
-  
 - [Clustering]():
   - k-Means
-  
 - [Dimensionality reduction]()
-
 - [Visualization]():
   - PCA
+  
 --------------------------
 
 ## All these tasks can be classified by the ML category they belong to as following:
