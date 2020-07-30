@@ -66,15 +66,16 @@ _Waiting for people to go through all these like:_
 -----------------------------------------------   
 ## B. Artificial Neural Networks with Python
 
-**Artificial Intelligence (AI)** is a domain in Computer Science. Considering the field of applience, AI has the following branches: **Natural Language Processing (NLP)** (for text applications: _text summarization, machine translation,_ etc.), **Computer Vision (CV)** (for images/videos applications: _object detection, pattern recognition,_ etc.) and **Automated Speech Recognision (ASR)** (for audio applications: _speech-to-text, sound generation,_ etc.).
+**Artificial Intelligence (AI)** is a domain in Computer Science. Considering the field of applience, AI has the following branches: 
+- **Natural Language Processing (NLP)** (for text applications, such as: _text summarization, machine translation,_ etc.), 
+- **Computer Vision (CV)** (for images/videos applications, such as: _object detection, pattern recognition,_ etc.) 
+- **Automated Speech Recognision (ASR)** (for audio applications, such as: _speech-to-text, sound generation,_ etc.).
 
-In these AI fields the code is _dynamic_ and able to _learn by itself_, “observing” (word substitute for “applying mathematical magic beasts”) other similar situations. Those special types of codes are named Artificial Neural Networks. They aim to keep up with this ever-changing world by self-adapting and learning on the fly.  
+In AI the code is _dynamic_ and able to _learn by itself_, “observing” (word substitute for “applying mathematical magic beasts”) other similar situations. Those special types of codes are named Artificial Neural Networks. They aim to keep up with this ever-changing world by self-adapting and learning on the fly.  
 
-In order to understand the AI concepts you need distinguish between its goals and its techniques.
-
-On the one hand, AI has a set of **goals** that represent what the AI system can do. Some of those goals include: _object recognition, object manipulation, classifying documents,_ and so on.
-
-On the other hand, AI uses some programming **techniques** (algorithms) in order to achieve its goals. Some of those techniques include: _data pre-processing, statistical & probabilities methods, mathematical optimizations,_ and so on.
+In order to understand the AI concepts you need distinguish between its goals and its techniques:
+- AI has a set of **goals** that represent what the AI system can do. Some of those goals include: _object recognition, object manipulation, classifying documents,_ and so on.
+- AI uses some programming **techniques** (algorithms) in order to achieve its goals. Some of those techniques include: _data pre-processing, statistical & probabilities methods, mathematical optimizations,_ and so on.
 
 If you want to apply some of the exciting models that creates false images or videos of celebrities or drive self-driving cars, or if you just wonder about what Artificial Inteligence is about, you might find this repository useful.
 
