@@ -59,7 +59,7 @@ Moreover, considering the field of applience, AI has the following branches: **N
 
 _In other words:_ 
 
-AI is the big playground, ML is the way in which the computer learns and DL is a name we use to call those huge fancy models out there.
+AI is the big playground of smart computers, ML is the way in which the computer learns human-like tasks and DL is a name we use to call those huge fancy models out there that makes possible the learning process.
 
 <div align="center">
   
